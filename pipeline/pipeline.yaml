@@ -1,0 +1,20 @@
+tasks:
+
+  - source: 01-align.sh
+    product: 
+      list: .input.csv
+      tmscore: '{{system_name}}.tmscore.csv'
+    params:
+      reference: '{{reference}}'
+  - source: 02-rename-chains.ipynb
+    product: 
+      data: .input.rechained.csv
+      chains: chains.json
+      nb: out-02-rename-chains.ipynb
+    params:
+      reference: '{{reference}}'
+  - source: 03-clean.ipynb
+    product: 
+      nb: out-03-clean.ipynb
+      data: '{{system_name}}.avgplDDT.csv'
+      stripped: '.stripped.out.csv'

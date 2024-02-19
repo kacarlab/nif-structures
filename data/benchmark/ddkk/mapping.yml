@@ -1,0 +1,15 @@
+mapping:
+  1QH8: nif_Klebsiella_pneumoniae
+  3U7Q: nif_Azotobacter_vinelandii
+  5KOH: nif_Gluconacetobacter_diazotrophicus_PA1_5
+  7ADR: vnf_Azotobacter_vinelandii
+  8BOQ: anf_Azotobacter_vinelandii
+  5VQ3: nif_Clostridium_pasteurianum
+
+fancy_name:
+  nif_Klebsiella_pneumoniae: Nif / K. pneumoniae
+  nif_Azotobacter_vinelandii: Nif / A. vinelandii
+  nif_Gluconacetobacter_diazotrophicus_PA1_5: Nif/ G. diazotrophicus
+  vnf_Azotobacter_vinelandii: Vnf/ A. vinelandii
+  anf_Azotobacter_vinelandii: Anf/ A. vinelandii
+  nif_Clostridium_pasteurianum: Nif/ C. pasteurianum
