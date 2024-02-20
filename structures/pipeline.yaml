@@ -5,14 +5,15 @@ tasks:
       nb: out-01-uniform-files.ipynb
     params:
       input: '{{input}}'
+      clade_assignments: '{{clade_assignments}}'
   - source: 02-extract-chain-info.ipynb
     product:
       data: chain-reference.csv
       nb: out-02-extract-chain-info.ipynb
     params:
       input: '{{input}}'
-  - source: 03-upload-s3.ipynb
-    product:
-      nb: out-03-upload-s3.ipynb
-    params:
-      input: '{{input}}'
+  # - source: 03-upload-s3.ipynb
+  #   product:
+  #     nb: out-03-upload-s3.ipynb
+  #   params:
+  #     input: '{{input}}'

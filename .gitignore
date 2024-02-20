@@ -1,1 +1,5 @@
 raw
+data/benchmark/ddkk/*.pdb
+preparation/re-alignment/*
+preparation/input/*
+structures/*.pdb
