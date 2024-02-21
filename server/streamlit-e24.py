@@ -96,15 +96,11 @@ def plot_tree(reference_tips, query_tip):
 
 
 
-
-st.title('Nitrogenase Structural Space DB')
-
-with st.container():
-    col1, col2 = st.columns(2)
-    with col1:
-        st.metric('Number of structures', query("SELECT count(*) FROM ref").loc[0][0])
-    with col2:
-        st.metric('Number of chains', query("SELECT count(*) FROM chainref").loc[0][0])
+col1, col2 = st.columns(2)
+col1.title('Nitrogenase Structural Space DB')
+col2.image('../nitrospace-pet.png', caption='nitrospace-pet', width=300)
+col1.metric('Number of structures', query("SELECT count(*) FROM ref").loc[0][0])
+col1.metric('Number of chains', query("SELECT count(*) FROM chainref").loc[0][0])
 
 
 st.header('Search')

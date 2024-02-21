@@ -3,6 +3,8 @@
 Note for myself: this folder is a copy and a reorganization of elife24, which has grown
 very difficult to re-arrange
 
+![](nitrospace-pet.png)
+
 ## Summary
 
 Nitrogenases are the only known enzymatic catalysts capable of Nitrogenase reduction.

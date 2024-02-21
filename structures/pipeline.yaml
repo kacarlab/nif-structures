@@ -17,3 +17,9 @@ tasks:
   #     nb: out-03-upload-s3.ipynb
   #   params:
   #     input: '{{input}}'
+  - source: 04-features.ipynb
+    product:
+      data: structure-features.csv
+      nb: out-04-features.ipynb
+    params:
+      input: '{{input}}'
