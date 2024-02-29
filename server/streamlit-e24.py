@@ -6,14 +6,16 @@ import py3Dmol
 import toyplot
 import toytree
 import toyplot.svg
-import boto3
+import os
+import pathlib
+
 
 st.session_state['tree'] = None
 
 def download_protein_s3(id):
 
-    s3 = boto3.resource('s3')
-    s3.Bucket('nitrogenase-structures').download_file(id + '.pdb', '/tmp/' + id + '.pdb')
+    path_to_pdb = pathlib.Path(os.getcwd()).parent / 'structures/pdb/{0}.pdb'.format(id)
+    return path_to_pdb
 
 @st.cache_resource
 def open_database():
@@ -98,13 +100,22 @@ def plot_tree(reference_tips, query_tip):
 
 col1, col2 = st.columns(2)
 col1.title('Nitrogenase Structural Space DB')
+col1.text("""
+
+Nitrogenases are fundamental for our biosphere, as they carry out the only mechanism
+to fix molecular nitrogen into bioavailable nitrogen. However, despite
+their importance, there is little coverage of their structural diversity.
+In this database, we attempt to explore such diversity by predicting the structures
+of many extant and ancestral nitrogenases, including variants.
+
+""")
 col2.image('../nitrospace-pet.png', caption='nitrospace-pet', width=300)
 col1.metric('Number of structures', query("SELECT count(*) FROM ref").loc[0][0])
 col1.metric('Number of chains', query("SELECT count(*) FROM chainref").loc[0][0])
 
 
 st.header('Search')
-query_terms = st.text_input('Nif, Azotobacter vinelandii, taxid:1076, uniprot: Q3AS5D')
+query_terms = st.text_input('Nif, Azotobacter vinelandii, taxid:1076')
 
 
 # st.divider()
@@ -175,12 +186,12 @@ if selected:
 
     st.dataframe(query_components(selection['id'])[['chain', 'pLDDT', 'subunit', 'sequence']], width=1200)
 
-    download_protein_s3(selection['id'])
+    path_to_protein = download_protein_s3(selection['id'])
 
-    with open('/tmp/' + selection['id'] + '.pdb') as ifile:
+    with open(path_to_protein) as ifile:
         pdb_content = "".join([x for x in ifile])
         
-    with open('/tmp/' + selection['id'] + '.pdb') as ifile:
+    with open(path_to_protein) as ifile:
         pdb_text = ifile.read()
 
     st.download_button(label='download pdb', data=pdb_text, file_name='selected.pdb')
