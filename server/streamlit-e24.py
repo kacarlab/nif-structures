@@ -35,7 +35,7 @@ def open_database():
 @st.cache_resource
 def open_tree():
     
-    tre = toytree.tree(open('../data/tree/AGNifAlign103.asr.tre').read())
+    tre = toytree.tree(open('../data/tree/AGNifAlign103.asr.tre').read(), tree_format=1)
     rtre = tre.root(wildcard='BchChl')
     rtre = rtre.drop_tips(wildcard="BchChl")
     return rtre
@@ -78,9 +78,23 @@ def query_components(x):
 
 
 
-def plot_tree(reference_tips, query_tip):
+def plot_tree(reference_tips, reference_nodes, query_tip, query_node):
     tip_labels = []
     tip_colors = []
+    node_labels = []
+    node_colors = []
+    for node in st.session_state['tree'].get_node_values('name', False, False):
+        if node == query_node:
+            node_labels.append(node)
+            node_colors.append('red')
+        elif node in reference_nodes:
+            node_labels.append(node)
+            node_colors.append('white')
+        else:
+            node_labels.append('')
+            node_colors.append('gray')
+        
+
     for node in st.session_state['tree'].get_tip_labels():
         if node == query_tip:
             tip_labels.append(node)
@@ -94,56 +108,51 @@ def plot_tree(reference_tips, query_tip):
 
     return st.session_state['tree'].draw(
         tip_labels_align=False, tree_style='d', 
-        tip_labels=tip_labels, tip_labels_colors=tip_colors
+        tip_labels=tip_labels, tip_labels_colors=tip_colors,
+        node_labels=node_labels, node_colors=node_colors,
+        node_sizes=10
     )
 
 
 
-col1, col2 = st.columns(2)
+col1, col2, col3 = st.columns(3)
 col1.title('Nitrogenase Structural Space DB')
 col1.text("""
 
-Nitrogenases are fundamental for our biosphere, as they carry out the only mechanism
-to fix molecular nitrogen into bioavailable nitrogen. However, despite
-their importance, there is little coverage of their structural diversity.
-In this database, we attempt to explore such diversity by predicting the structures
-of many extant and ancestral nitrogenases, including variants.
+Nitrogenases are fundamental for our biosphere, as they 
+carry  out the only mechanism to fix molecular nitrogen 
+into bioavailable nitrogen. However, despite their 
+importance, there is little coverage of their structural 
+diversity. In this database, we attempt to explore 
+such diversity by predicting the structures of many 
+extant and ancestral nitrogenases, including variants.
 
 """)
-col2.image('../nitrospace-pet.png', caption='nitrospace-pet', width=300)
-col1.metric('Number of structures', query("SELECT count(*) FROM ref").loc[0][0])
-col1.metric('Number of chains', query("SELECT count(*) FROM chainref").loc[0][0])
+col3.image('../nitrospace-pet.png', caption='nitrospace-pet', width=300)
+_, subcol2, _ = col2.columns(3)
+subcol2.metric('Number of structures', query("SELECT count(*) FROM ref").loc[0][0])
+subcol2.metric('Number of chains', query("SELECT count(*) FROM chainref").loc[0][0])
 
-
-st.header('Search')
-query_terms = st.text_input('Nif, Azotobacter vinelandii, taxid:1076')
-
-
-# st.divider()
+st.divider()
 
 with st.container():
-    st.write('Nitrogenase type')
-    col1, col2, col3, col4 = st.columns(4)
-    with col1:
-        include_nif = st.checkbox('Nif', value=True)
-    with col2:
-        include_vnf = st.checkbox('Vnf', value=True)
-    with col3:
-        include_anf = st.checkbox('Anf', value=True)
-    with col4:
-        include_anc = st.checkbox('Anc', value=True)
 
-
-# st.divider()
-
-with st.container():
-    st.write('Dataset')
+    st.header('Search')
     col1, col2 = st.columns(2)
-    with col1:
-        include_gold = st.checkbox('Gold', value=True)
+    query_terms = col1.text_input('Nif, Azotobacter vinelandii, taxid:1076')
     with col2:
-        include_silver = st.checkbox('Silver', value=True)
+        st.write('Nitrogenase type')
+        subcol1, subcol2 = st.columns(2)
+        include_nif = subcol1.checkbox('Nif', value=True)
+        include_vnf = subcol1.checkbox('Vnf', value=True)
+        include_anf = subcol2.checkbox('Anf', value=True)
+        include_anc = subcol2.checkbox('Anc', value=True)        
 
+
+
+        
+include_gold = True
+include_silver = True
 type_includes = [
     ('Nif', include_nif), ('Vnf', include_vnf), 
     ('Anf', include_anf), ('Anc', include_anc)
@@ -205,12 +214,11 @@ if selected:
         view.setStyle({'cartoon':{'color':'spectrum'}})
         view.zoomTo()
         showmol(view, height = 600,width=600, )
-    with col2:
-        st.subheader('Phylogenetics')
         phylogenetic_relationships = find_phylogenetic_relatives(selection)
         st.dataframe(phylogenetic_relationships, width=600)
-
-
+    with col2:
+        st.subheader('Phylogenetics')
+        st.write('_'.join(selection['scientific_name'].split('_')[:2]))
         canvas, axes, mark = plot_tree(
             reference_tips=[
                 'Nif_Rhodopseudomonas_palustris',
@@ -224,8 +232,28 @@ if selected:
                 'Nif_Orenia_metallireducens',
                 'Nif_Desulfobacca_acetoxidans'
             ],
-            query_tip=selection['nitrogenase_type'] + '_' + selection['scientific_name'].replace(' ', '_')
+            reference_nodes=[
+                'anc_1206', 'anc_821', 'anc_1345', 'anc_808', 'anc_1352', 'anc_821'
+            ],
+            query_tip=selection['nitrogenase_type'] + '_' + selection['scientific_name'].replace(' ', '_'),
+            query_node='_'.join(selection['scientific_name'].split('_')[:2]).lower()
         )    
         toyplot.svg.render(canvas, "/tmp/tree-plot.svg")
         
-        st.image('/tmp/tree-plot.svg')
+        st.image('/tmp/tree-plot.svg', use_column_width=True)
+
+
+st.divider()
+with st.container():
+
+    st.header('About us')
+
+    st.markdown(
+"""
+If you like this work, cite us:
+
+    Garcia, Cuevas, Kaçar, 2023, Journal of Nitrogenases
+
+"""
+
+    )
