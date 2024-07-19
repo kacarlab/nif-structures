@@ -1,8 +1,5 @@
 # Massive Nitrogenase Prediction
 
-Note for myself: this folder is a copy and a reorganization of elife24, which has grown
-very difficult to re-arrange
-
 ![](nitrospace-pet.png)
 
 ## Summary
@@ -33,10 +30,16 @@ to process the structures as they get out of the colabfold pipeline. I explain t
 - **structures**: It contains the predicted structures. We note that we might not be able
 to host all these structures in a Github repository.
 
+## Preparation
+
+There are a couple protocols:
+- **bona-fide**. Just the standard AF2 protocol. It gives place to the "gold" data.
+- **recycling**. Recycling MSA alignments. It is used to predict sequence variants. It gives place to the "silver" data.
+We provide a "scripts" folder (´/preparation/scripts/´) containing the AF2 scripts that we used in our HPC cluster.
 
 ## Pipelines
 
-### 
+### Post-prediction pipeline (/pipeline)
 
 The pipeline aims to provide the same treatment to all the prediction files. We consider three steps:
 - Alignment against a reference, to ease all further calculations.
@@ -63,15 +66,22 @@ might just remove it from the list.
 
     tasks:
 
-### Structures sorting 
+### Structure sorting pipeline (/structures)
+
+This other pipeline aims for a different goal: taking all the predictions, and unify their different aspects so
+they become organized for the DB storage. One of the notebooks also carries out different calculations on the structures
+to characterize them.
 
 
 ## Server
 
 
 The server can be deployed locally, after the installation of the corresponding
-libraries, using streamlit.
+libraries, using streamlit. 
 
 
     streamlit run nitrogenase-structural-space.py
 
+We note, however, that the nitrogenase-structural-db.streamlit.com server is not
+an exact match of this server, as we are using an S3 solution for storage (the whole
+dataset is around 3.8GB).

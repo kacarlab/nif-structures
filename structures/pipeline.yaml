@@ -12,11 +12,14 @@ tasks:
       nb: out-02-extract-chain-info.ipynb
     params:
       input: '{{input}}'
-  # - source: 03-upload-s3.ipynb
-  #   product:
-  #     nb: out-03-upload-s3.ipynb
-  #   params:
-  #     input: '{{input}}'
+  - source: 03-upload-s3.ipynb
+    product:
+      nb: out-03-upload-s3.ipynb
+    params:
+      input: '{{input}}'
+      R2_ENDPOINT_URL: '{{R2_ENDPOINT_URL}}'
+      R2_KEY_ID: '{{R2_KEY_ID}}'
+      R2_KEY: '{{R2_KEY}}'
   - source: 04-features.ipynb
     product:
       data: structure-features.csv

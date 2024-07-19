@@ -1,0 +1,60 @@
+input: 
+  - path: "/mnt/researchdrive/bCuevas/massive-nitrogenase-prediction/raw/ddkk-extant/pdb/"
+    chain-reference:
+      A: D
+      B: K
+      D: D
+      E: K
+    dataset_status: gold
+
+  - path: "/mnt/researchdrive/bCuevas/massive-nitrogenase-prediction/raw/ddkk-alternative/pdb/"
+    chain-reference:
+      A: D
+      B: K
+      D: D
+      E: K
+    dataset_status: gold
+    
+  - path: "/mnt/researchdrive/bCuevas/massive-nitrogenase-prediction/raw/ddkk-ancestral/pdb/"
+    chain-reference:
+      A: D
+      B: K
+      D: D
+      E: K
+    dataset_status: gold
+
+  - path: "/mnt/researchdrive/bCuevas/massive-nitrogenase-prediction/raw/hh/pdb/"
+    chain-reference:
+      A: H
+      B: H
+    dataset_status: gold
+
+  - path: "/mnt/researchdrive/bCuevas/massive-nitrogenase-prediction/raw/ddkk-ancestral-altall/pdb/"
+    chain-reference:
+      A: D
+      B: K
+      D: D
+      E: K
+    dataset_status: silver
+
+  - path: "/mnt/researchdrive/bCuevas/massive-nitrogenase-prediction/raw/ddkk-ancestral-altx/pdb/"
+    chain-reference:
+      A: D
+      B: K
+      D: D
+      E: K
+    dataset_status: silver
+
+  - path: "/mnt/researchdrive/bCuevas/massive-nitrogenase-prediction/raw/hh-ancestral-altall/pdb/"
+    chain-reference:
+      A: H
+      B: H
+    dataset_status: silver
+
+  - path: "/mnt/researchdrive/bCuevas/massive-nitrogenase-prediction/raw/hh-ancestral-altx/pdb/"
+    chain-reference:
+      A: H
+      B: H
+    dataset_status: silver
+
+clade_assignments: "/mnt/researchdrive/bCuevas/massive-nitrogenase-prediction/data/tree/clade-asignments.csv"
