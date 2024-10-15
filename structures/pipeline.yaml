@@ -20,9 +20,77 @@ tasks:
       R2_ENDPOINT_URL: '{{R2_ENDPOINT_URL}}'
       R2_KEY_ID: '{{R2_KEY_ID}}'
       R2_KEY: '{{R2_KEY}}'
-  - source: 04-features.ipynb
+  # - source: 04-features.ipynb
+  #   product:
+  #     data: structure-features.csv
+  #     nb: out-04-features.ipynb
+  #   params:
+  #     input: '{{input}}'
+  - source: 05-ancestral-variants.ipynb
     product:
-      data: structure-features.csv
-      nb: out-04-features.ipynb
+      data: ancestral-variants.json
+      nb: out-05-ancestral-variants.ipynb
+  - name: 06a-rmsd-femoco
+    source: 06-active-site.ipynb
+    product:
+      data: rmsd-femoco.json
+      data-grouped: rmsd-femoco-g.json
+      nb: out-06a-rmsd-femoco.ipynb
     params:
-      input: '{{input}}'
+      reference_sequence: Nif_Azotobacter_vinelandii
+      residues:
+          - "D:V:70"
+          - "D:Q:191"
+          - "D:H:195"
+          - "D:Y:229"
+          - "D:I:231"
+          - "D:C:275"
+          - "D:R:277"
+          - "D:S:278"
+          - "D:I:355"
+          - "D:G:356"
+          - "D:G:357"
+          - "D:L:358"
+          - "D:R:359"
+          - "D:P:360"
+          - "D:E:380"
+          - "D:F:381"
+          - "D:M:441"
+          - "D:H:442"
+      alignment_files:
+          D: "../sequences/AGNifAlign105.ext-anc.alt.D.fasta"
+          K: "../sequences/AGNifAlign105.ext-anc.alt.K.fasta"
+          H: "../sequences/AGNifAlign105.ext-anc.alt.H.fasta"
+      chain_map:
+          D:
+            - A
+            - D
+          K:
+            - B
+            - E
+
+  - name: 06b-rmsd-fe8s7
+    source: 06-active-site.ipynb
+    product:
+      data: rmsd-fe8s7.json
+      data-grouped: rmsd-fe8s7-g.json
+      nb: out-06b-rmsd-fe8s7.ipynb
+    params:
+      reference_sequence: Nif_Azotobacter_vinelandii
+      residues:
+          - "D:C:62"
+          - "D:C:88"
+          - "D:C:154"
+          - "K:C:70"
+          - "K:C:153"
+      alignment_files:
+          D: "../sequences/AGNifAlign105.ext-anc.alt.D.fasta"
+          K: "../sequences/AGNifAlign105.ext-anc.alt.K.fasta"
+          H: "../sequences/AGNifAlign105.ext-anc.alt.H.fasta"
+      chain_map:
+          D:
+            - A
+            - D
+          K:
+            - B
+            - E

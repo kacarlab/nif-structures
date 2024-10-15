@@ -2,4 +2,9 @@ raw
 data/benchmark/ddkk/*.pdb
 preparation/re-alignment/*
 preparation/input/*
-structures/*.pdb
+structures/pdb/*.pdb
+structures/pdb/.*
+structures/pdb.old/
+structures/old/
+structures/pdb-upload/
+figures/*

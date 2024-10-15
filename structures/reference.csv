@@ -59,11 +59,11 @@ Nif_Gracilibacter_sp_BRH_c7a_001.rechained.pdb,nsdb-000057,DDKK,95.1022901921132
 Nif_Methyloglobulus_morosus_001.rechained.pdb,nsdb-000058,DDKK,95.04718407960199,1410681,Bacteria; Pseudomonadota; Gammaproteobacteria; Methylococcales; Methylococcaceae; Methyloglobulus; ,Methyloglobulus morosus,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_uncultured_archaeon_001.rechained.pdb,nsdb-000059,DDKK,93.88530286343614,115547,Archaea; environmental samples; ,uncultured archaeon,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-iii
 Nif_Massilibacillus_massiliensis_001.rechained.pdb,nsdb-000060,DDKK,95.07419207317074,1806837,Bacteria; Bacillota; Negativicutes; Veillonellales; Veillonellaceae; Massilibacillus; ,Massilibacillus massiliensis,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
-Nif_Caldicellulosiruptor_saccharolyticus_001.rechained.pdb,nsdb-000061,DDKK,94.2907908992416,44001,Bacteria; Bacillota; Clostridia; Caldicellulosiruptorales; Caldicellulosiruptoraceae; Caldicellulosiruptor; ,Caldicellulosiruptor saccharolyticus,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-iii
+Nif_Caldicellulosiruptor_saccharolyticus_001.rechained.pdb,nsdb-000061,DDKK,94.2907908992416,44001,Bacteria; Bacillota; Bacillota incertae sedis; Caldicellulosiruptorales; Caldicellulosiruptoraceae; Caldicellulosiruptor; ,Caldicellulosiruptor saccharolyticus,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-iii
 Nif_Magnetovibrio_blakemorei_001.rechained.pdb,nsdb-000062,DDKK,95.0233234714004,28181,Bacteria; Pseudomonadota; Alphaproteobacteria; Rhodospirillales; Magnetovibrionaceae; Magnetovibrio; ,Magnetovibrio blakemorei,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Planctomycetes_bacterium_Q31b_001.rechained.pdb,nsdb-000063,DDKK,94.8738078470825,,,Planctomycetes bacterium Q31b,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Spirochaeta_thermophila_001.rechained.pdb,nsdb-000064,DDKK,93.90886811023623,154,Bacteria; Spirochaetota; Spirochaetia; Spirochaetales; Spirochaetaceae; Spirochaeta; ,Spirochaeta thermophila,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
-Nif_Desulfurobacterium_atlanticum_001.rechained.pdb,nsdb-000065,DDKK,95.3352929085303,240169,Bacteria; Aquificota; Aquificae; Desulfurobacteriales; Desulfurobacteriaceae; Desulfurobacterium; ,Desulfurobacterium atlanticum,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
+Nif_Desulfurobacterium_atlanticum_001.rechained.pdb,nsdb-000065,DDKK,95.3352929085303,240169,Bacteria; Aquificota; Aquificia; Desulfurobacteriales; Desulfurobacteriaceae; Desulfurobacterium; ,Desulfurobacterium atlanticum,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Pseudobacteroides_cellulosolvens_001.rechained.pdb,nsdb-000066,DDKK,95.59318413021364,35825,Bacteria; Bacillota; Clostridia; Eubacteriales; Oscillospiraceae; Pseudobacteroides; ,Pseudobacteroides cellulosolvens,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Paludibacter_propionicigenes_001.rechained.pdb,nsdb-000067,DDKK,94.18561316051844,185300,Bacteria; Bacteroidota; Bacteroidia; Bacteroidales; Paludibacteraceae; Paludibacter; ,Paludibacter propionicigenes,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Rhodocyclaceae_bacterium_001.rechained.pdb,nsdb-000068,DDKK,95.28706027667984,1898103,Bacteria; Pseudomonadota; Betaproteobacteria; Rhodocyclales; Rhodocyclaceae; ,Rhodocyclaceae bacterium,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
@@ -87,11 +87,11 @@ Nif_Rhodobacteraceae_bacterium_001.rechained.pdb,nsdb-000085,DDKK,95.32364758144
 Nif_bacterium_BMS3Abin10_001.rechained.pdb,nsdb-000086,DDKK,94.67337475149105,2005718,Bacteria; ,bacterium BMS3Abin10,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Polaromonas_naphthalenivorans_001.rechained.pdb,nsdb-000087,DDKK,95.19530815109346,216465,Bacteria; Pseudomonadota; Betaproteobacteria; Burkholderiales; Comamonadaceae; Polaromonas; ,Polaromonas naphthalenivorans,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Kiritimatiellales_bacterium_001.rechained.pdb,nsdb-000088,DDKK,94.60000000000001,2202731,Bacteria; Kiritimatiellota; Kiritimatiellia; Kiritimatiellales; ,Kiritimatiellales bacterium,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
-Nif_Pseudoclostridium_thermosuccinogenes_001.rechained.pdb,nsdb-000089,DDKK,94.62051915322581,84032,Bacteria; Bacillota; Clostridia; Eubacteriales; Oscillospiraceae; Pseudoclostridium; ,Pseudoclostridium thermosuccinogenes,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
+Nif_Pseudoclostridium_thermosuccinogenes_001.rechained.pdb,nsdb-000089,DDKK,94.62051915322581,,,Pseudoclostridium thermosuccinogenes,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Peptococcaceae_bacterium_CEB3_001.rechained.pdb,nsdb-000090,DDKK,94.22685358255451,999898,Bacteria; Bacillota; Clostridia; Eubacteriales; Peptococcaceae; ,Peptococcaceae bacterium CEB3,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Seleniivibrio_woodruffii_001.rechained.pdb,nsdb-000091,DDKK,95.57111393692777,1078050,Bacteria; Deferribacterota; Deferribacteres; Deferribacterales; Geovibrionaceae; Seleniivibrio; ,Seleniivibrio woodruffii,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Syntrophothermus_lipocalidus_001.rechained.pdb,nsdb-000092,DDKK,91.07280512820513,86170,Bacteria; Bacillota; Clostridia; Eubacteriales; Syntrophomonadaceae; Syntrophothermus; ,Syntrophothermus lipocalidus,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-iii
-Nif_Verrucomicrobiae_bacterium_DG1235_001.rechained.pdb,nsdb-000093,DDKK,94.764595,382464,Bacteria; Verrucomicrobiota; Verrucomicrobiae; ,Verrucomicrobiae bacterium DG1235,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
+Nif_Verrucomicrobiae_bacterium_DG1235_001.rechained.pdb,nsdb-000093,DDKK,94.764595,,,Verrucomicrobiae bacterium DG1235,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Halanaerobium_salsuginis_001.rechained.pdb,nsdb-000094,DDKK,94.34784491440081,29563,Bacteria; Bacillota; Clostridia; Halanaerobiales; Halanaerobiaceae; Halanaerobium; ,Halanaerobium salsuginis,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Wolinella_succinogenes_001.rechained.pdb,nsdb-000095,DDKK,95.43509566968781,844,Bacteria; Campylobacterota; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Wolinella; ,Wolinella succinogenes,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Desulfobacteraceae_bacterium_Eth-SRB2_001.rechained.pdb,nsdb-000096,DDKK,93.97159940944883,2528438,Bacteria; Thermodesulfobacteriota; Desulfobacteria; Desulfobacterales; Desulfobacteraceae; ,Desulfobacteraceae bacterium Eth-SRB2,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
@@ -118,7 +118,7 @@ Nif_Mariprofundus_ferrooxydans_001.rechained.pdb,nsdb-000116,DDKK,95.21550246305
 Nif_Natronoflexus_pectinivorans_001.rechained.pdb,nsdb-000117,DDKK,94.44641641641641,682526,Bacteria; Bacteroidota; Bacteroidia; Marinilabiliales; Marinilabiliaceae; Natronoflexus; ,Natronoflexus pectinivorans,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Halorhodospira_halochloris_001.rechained.pdb,nsdb-000118,DDKK,95.3818625498008,1052,Bacteria; Pseudomonadota; Gammaproteobacteria; Chromatiales; Ectothiorhodospiraceae; Halorhodospira; ,Halorhodospira halochloris,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Methanobrevibacter_curvatus_001.rechained.pdb,nsdb-000119,DDKK,93.2445658995816,49547,Archaea; Euryarchaeota; Methanomada group; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter; ,Methanobrevibacter curvatus,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-iii
-Nif_Geminisphaera_colitermitum_001.rechained.pdb,nsdb-000120,DDKK,92.29924618320611,1148786,Bacteria; Verrucomicrobiota; Opitutae; Opitutales; Opitutaceae; Geminisphaera; ,Geminisphaera colitermitum,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
+Nif_Geminisphaera_colitermitum_001.rechained.pdb,nsdb-000120,DDKK,92.29924618320611,1148786,Bacteria; Verrucomicrobiota; Opitutia; Opitutales; Opitutaceae; Geminisphaera; ,Geminisphaera colitermitum,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Methyloprofundus_sedimenti_001.rechained.pdb,nsdb-000121,DDKK,94.34627335299902,1420851,Bacteria; Pseudomonadota; Gammaproteobacteria; Methylococcales; Methylococcaceae; Methyloprofundus; ,Methyloprofundus sedimenti,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Marinobacter_sp_ES-1_001.rechained.pdb,nsdb-000122,DDKK,94.74998029556652,,,Marinobacter sp ES-1,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Labilibacter_aurantiacus_001.rechained.pdb,nsdb-000123,DDKK,94.65881592039803,,,Labilibacter aurantiacus,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
@@ -133,7 +133,7 @@ Nif_Pelobacter_acetylenicus_001.rechained.pdb,nsdb-000131,DDKK,95.10415724563207
 Nif_Methanothermobacter_thermautotrophicus_001.rechained.pdb,nsdb-000132,DDKK,94.7695474137931,145262,Archaea; Euryarchaeota; Methanomada group; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanothermobacter; ,Methanothermobacter thermautotrophicus,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-iii
 Nif_Desulfoglaeba_alkanexedens_001.rechained.pdb,nsdb-000133,DDKK,90.60454221770091,361111,Bacteria; Thermodesulfobacteriota; Syntrophobacteria; Syntrophobacterales; Syntrophobacteraceae; Desulfoglaeba; ,Desulfoglaeba alkanexedens,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-iii
 Nif_bacterium_BMS3Bbin07_001.rechained.pdb,nsdb-000134,DDKK,95.46556179775281,2005730,Bacteria; ,bacterium BMS3Bbin07,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
-Nif_Opitutaceae_bacterium_EW11_001.rechained.pdb,nsdb-000135,DDKK,92.97190935390549,2161865,Bacteria; Verrucomicrobiota; Opitutae; Opitutales; Opitutaceae; ,Opitutaceae bacterium EW11,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
+Nif_Opitutaceae_bacterium_EW11_001.rechained.pdb,nsdb-000135,DDKK,92.97190935390549,2161865,Bacteria; Verrucomicrobiota; Opitutia; Opitutales; Opitutaceae; ,Opitutaceae bacterium EW11,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Methanobacteriales_archaeon_HGW-Methanobacteriales-1_001.rechained.pdb,nsdb-000136,DDKK,94.39077894736842,2013815,Archaea; Euryarchaeota; Methanomada group; Methanobacteria; Methanobacteriales; ,Methanobacteriales archaeon HGW-Methanobacteriales-1,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-iii
 Nif_cyanobacterium_endosymbiont_of_Epithemia_turgida_001.rechained.pdb,nsdb-000137,DDKK,95.5796115035318,718217,Bacteria; Cyanobacteriota; ,cyanobacterium endosymbiont of Epithemia turgida,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Dehalogenimonas_sp_WBC-2_001.rechained.pdb,nsdb-000138,DDKK,95.07542372881355,,,Dehalogenimonas sp WBC-2,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
@@ -148,7 +148,7 @@ Nif_Desulfobulbaceae_bacterium_001.rechained.pdb,nsdb-000146,DDKK,94.67132734530
 Nif_Solimonas_aquatica_001.rechained.pdb,nsdb-000147,DDKK,94.97839303482587,489703,Bacteria; Pseudomonadota; Gammaproteobacteria; Nevskiales; Nevskiaceae; Solimonas; ,Solimonas aquatica,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Cellulosilyticum_lentocellum_001.rechained.pdb,nsdb-000148,DDKK,95.1126414141414,29360,Bacteria; Bacillota; Clostridia; Lachnospirales; Cellulosilyticaceae; Cellulosilyticum; ,Cellulosilyticum lentocellum,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Clostridium_populeti_001.rechained.pdb,nsdb-000149,DDKK,95.14087790110999,,,Clostridium populeti,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
-Nif_Chrysiogenes_arsenatis_001.rechained.pdb,nsdb-000150,DDKK,94.36113245702731,309797,Bacteria; Chrysiogenota; Chrysiogenetes; Chrysiogenales; Chrysiogenaceae; Chrysiogenes; ,Chrysiogenes arsenatis,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
+Nif_Chrysiogenes_arsenatis_001.rechained.pdb,nsdb-000150,DDKK,94.36113245702731,309797,Bacteria; Chrysiogenota; Chrysiogenia; Chrysiogenales; Chrysiogenaceae; Chrysiogenes; ,Chrysiogenes arsenatis,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Serratia_sp_ATCC_39006_001.rechained.pdb,nsdb-000151,DDKK,95.70881474103587,,,Serratia sp ATCC 39006,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Desulfamplus_magnetovallimortis_001.rechained.pdb,nsdb-000152,DDKK,94.69562376237623,1246637,Bacteria; Thermodesulfobacteriota; Desulfobacteria; Desulfobacterales; Desulfobacteraceae; Desulfamplus; ,Desulfamplus magnetovallimortis,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Gammaproteobacteria_bacterium_28-57-27_001.rechained.pdb,nsdb-000153,DDKK,94.40773575638507,1970513,Bacteria; Pseudomonadota; Gammaproteobacteria; ,Gammaproteobacteria bacterium 28-57-27,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
@@ -164,7 +164,7 @@ Nif_Chloroflexi_bacterium_001.rechained.pdb,nsdb-000162,DDKK,94.52071428571429,,
 Nif_Acetobacterium_woodii_001.rechained.pdb,nsdb-000163,DDKK,94.91980142566192,33952,Bacteria; Bacillota; Clostridia; Eubacteriales; Eubacteriaceae; Acetobacterium; ,Acetobacterium woodii,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Nitrospirae_bacterium_GWC2_57_13_001.rechained.pdb,nsdb-000164,DDKK,95.3490415821501,,,Nitrospirae bacterium GWC2 57 13,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Cohaesibacter_haloalkalitolerans_001.rechained.pdb,nsdb-000165,DDKK,94.59776406712734,1162980,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Cohaesibacteraceae; ,Cohaesibacter haloalkalitolerans,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
-Nif_Candidatus_Magnetoovum_chiemensis_001.rechained.pdb,nsdb-000166,DDKK,95.5514519427403,1609970,Bacteria; Nitrospirota; Nitrospiria; Nitrospirales; Nitrospiraceae; Magnetoovum; ,Candidatus Magnetoovum chiemensis,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
+Nif_Candidatus_Magnetoovum_chiemensis_001.rechained.pdb,nsdb-000166,DDKK,95.5514519427403,1609970,Bacteria; Nitrospirota; Nitrospiria; Nitrospirales; Nitrospiraceae; Candidatus Magnetoovum; ,Candidatus Magnetoovum chiemensis,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Anaerotignum_neopropionicum_001.rechained.pdb,nsdb-000167,DDKK,94.68950505050505,36847,Bacteria; Bacillota; Clostridia; Lachnospirales; Anaerotignaceae; Anaerotignum; ,Anaerotignum neopropionicum,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Carboxydocella_sp_ULO1_001.rechained.pdb,nsdb-000168,DDKK,95.48211656441718,,,Carboxydocella sp ULO1,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Clostridium_pasteurianum_001.rechained.pdb,nsdb-000169,DDKK,94.86761088709677,1501,Bacteria; Bacillota; Clostridia; Eubacteriales; Clostridiaceae; Clostridium; ,Clostridium pasteurianum,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
@@ -189,7 +189,7 @@ Nif_Geothermobacter_sp_EPR-M_001.rechained.pdb,nsdb-000187,DDKK,95.8376601239669
 Nif_Verrucomicrobia_bacterium_Tous-C9LFEB_001.rechained.pdb,nsdb-000188,DDKK,92.6579766536965,1982333,Bacteria; Verrucomicrobiota; ,Verrucomicrobia bacterium Tous-C9LFEB,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Gorillibacterium_timonense_001.rechained.pdb,nsdb-000189,DDKK,95.35783770161291,1689269,Bacteria; Bacillota; Bacilli; Bacillales; Paenibacillaceae; Gorillibacterium; ,Gorillibacterium timonense,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Acidihalobacter_prosperus_001.rechained.pdb,nsdb-000190,DDKK,94.43394192913387,160660,Bacteria; Pseudomonadota; Gammaproteobacteria; Chromatiales; Ectothiorhodospiraceae; Acidihalobacter; ,Acidihalobacter prosperus,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
-Nif_Gaiellales_bacterium_001.rechained.pdb,nsdb-000191,DDKK,94.56880544354838,2093372,Bacteria; Actinomycetota; Rubrobacteria; Gaiellales; ,Gaiellales bacterium,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
+Nif_Gaiellales_bacterium_001.rechained.pdb,nsdb-000191,DDKK,94.56880544354838,2093372,Bacteria; Actinomycetota; Thermoleophilia; Gaiellales; ,Gaiellales bacterium,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Fontibacillus_panacisegetis_001.rechained.pdb,nsdb-000192,DDKK,94.67320060483871,670482,Bacteria; Bacillota; Bacilli; Bacillales; Paenibacillaceae; Fontibacillus; ,Fontibacillus panacisegetis,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Calditerrivibrio_nitroreducens_001.rechained.pdb,nsdb-000193,DDKK,95.08832317073171,477976,Bacteria; Deferribacterota; Deferribacteres; Deferribacterales; Calditerrivibrionaceae; ,Calditerrivibrio nitroreducens,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Desertifilum_sp_IPPAS_B-1220_001.rechained.pdb,nsdb-000194,DDKK,94.70426441351887,,,Desertifilum sp IPPAS B-1220,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
@@ -215,7 +215,7 @@ Nif_Desulfonatronovibrio_hydrogenovorans_001.rechained.pdb,nsdb-000213,DDKK,94.1
 Nif_Geitlerinema_sp_PCC_9228_001.rechained.pdb,nsdb-000214,DDKK,95.56415151515152,,,Geitlerinema sp PCC 9228,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Ectothiorhodospiraceae_bacterium_001.rechained.pdb,nsdb-000215,DDKK,95.3856354679803,2026737,Bacteria; Pseudomonadota; Gammaproteobacteria; Chromatiales; Ectothiorhodospiraceae; ,Ectothiorhodospiraceae bacterium,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Blastopirellula_marina_001.rechained.pdb,nsdb-000216,DDKK,95.48620689655172,124,Bacteria; Planctomycetota; Planctomycetia; Pirellulales; Pirellulaceae; Blastopirellula; ,Blastopirellula marina,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
-Nif_Candidatus_Acidulodesulfobacterium_acidiphilum_001.rechained.pdb,nsdb-000217,DDKK,95.7363301787592,2597224,Bacteria; Deltaproteobacteria; Candidatus Acidulodesulfobacterales; Acidulodesulfobacterium; ,Candidatus Acidulodesulfobacterium acidiphilum,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
+Nif_Candidatus_Acidulodesulfobacterium_acidiphilum_001.rechained.pdb,nsdb-000217,DDKK,95.7363301787592,2597224,Bacteria; Deltaproteobacteria; Candidatus Acidulodesulfobacterales; Candidatus Acidulodesulfobacterium; ,Candidatus Acidulodesulfobacterium acidiphilum,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Fibrobacteres_bacterium_001.rechained.pdb,nsdb-000218,DDKK,94.66444277108434,,,Fibrobacteres bacterium,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Methanolacinia_paynteri_001.rechained.pdb,nsdb-000219,DDKK,94.51882293762574,230356,Archaea; Euryarchaeota; Stenosarchaea group; Methanomicrobia; Methanomicrobiales; Methanomicrobiaceae; Methanolacinia; ,Methanolacinia paynteri,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Candidatus_Thiosymbion_oneisti_001.rechained.pdb,nsdb-000220,DDKK,95.67484592445328,589554,Bacteria; Pseudomonadota; Gammaproteobacteria; Chromatiales; Chromatiaceae; Candidatus Thiosymbion; ,Candidatus Thiosymbion oneisti,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
@@ -234,7 +234,7 @@ Nif_Alkalibacter_saccharofermentans_001.rechained.pdb,nsdb-000232,DDKK,94.998479
 Nif_Candidatus_Marispirochaeta_associata_001.rechained.pdb,nsdb-000233,DDKK,94.57639221556886,1560235,Bacteria; Spirochaetota; Spirochaetia; Spirochaetales; Spirochaetaceae; Marispirochaeta; ,Candidatus Marispirochaeta associata,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Lentisphaerae_bacterium_GWF2_57_35_001.rechained.pdb,nsdb-000234,DDKK,94.0519890329013,,,Lentisphaerae bacterium GWF2 57 35,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Anaeroarcus_burkinensis_001.rechained.pdb,nsdb-000235,DDKK,94.71798298298299,82376,Bacteria; Bacillota; Negativicutes; Selenomonadales; Sporomusaceae; Anaeroarcus; ,Anaeroarcus burkinensis,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
-Nif_Candidatus_Methanoperedens_nitroreducens_001.rechained.pdb,nsdb-000236,DDKK,93.75466298342542,1392998,Archaea; Euryarchaeota; Stenosarchaea group; Methanomicrobia; Methanosarcinales; Candidatus Methanoperedenaceae; Methanoperedens; ,Candidatus Methanoperedens nitroreducens,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-iii
+Nif_Candidatus_Methanoperedens_nitroreducens_001.rechained.pdb,nsdb-000236,DDKK,93.75466298342542,1392998,Archaea; Euryarchaeota; Stenosarchaea group; Methanomicrobia; Methanosarcinales; Candidatus Methanoperedenaceae; Candidatus Methanoperedens; ,Candidatus Methanoperedens nitroreducens,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-iii
 Nif_Aliagarivorans_marinus_001.rechained.pdb,nsdb-000237,DDKK,94.92383778437191,561965,Bacteria; Pseudomonadota; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Aliagarivorans; ,Aliagarivorans marinus,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Desulfocarbo_indianensis_001.rechained.pdb,nsdb-000238,DDKK,94.18421393034826,1348163,Bacteria; Thermodesulfobacteriota; Desulfarculia; Desulfarculales; Desulfarculaceae; Desulfocarbo; ,Desulfocarbo indianensis,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Gallionellales_bacterium_GWA2_60_18_001.rechained.pdb,nsdb-000239,DDKK,94.93520623742455,,,Gallionellales bacterium GWA2 60 18,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
@@ -258,14 +258,14 @@ Nif_Betaproteobacteria_bacterium_HGW-Betaproteobacteria-11_001.rechained.pdb,nsd
 Nif_Azotobacter_vinelandii_001.rechained.pdb,nsdb-000257,DDKK,94.60397536945811,354,Bacteria; Pseudomonadota; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Azotobacter; ,Azotobacter vinelandii,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Actibacterium_ureilyticum_001.rechained.pdb,nsdb-000258,DDKK,94.8826597836775,1590614,Bacteria; Pseudomonadota; Alphaproteobacteria; Rhodobacterales; Roseobacteraceae; Actibacterium; ,Actibacterium ureilyticum,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Desulfovibrio_desulfuricans_001.rechained.pdb,nsdb-000259,DDKK,95.3630976602238,876,Bacteria; Thermodesulfobacteriota; Desulfovibrionia; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio; ,Desulfovibrio desulfuricans,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
-Nif_Candidatus_Acididesulfobacter_diazotrophicus_001.rechained.pdb,nsdb-000260,DDKK,95.76953830010494,2597226,Bacteria; Deltaproteobacteria; Candidatus Acidulodesulfobacterales; Acididesulfobacter; ,Candidatus Acididesulfobacter diazotrophicus,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
+Nif_Candidatus_Acididesulfobacter_diazotrophicus_001.rechained.pdb,nsdb-000260,DDKK,95.76953830010494,2597226,Bacteria; Deltaproteobacteria; Candidatus Acidulodesulfobacterales; Candidatus Acididesulfobacter; ,Candidatus Acididesulfobacter diazotrophicus,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Amphritea_atlantica_001.rechained.pdb,nsdb-000261,DDKK,94.77821850393701,355243,Bacteria; Pseudomonadota; Gammaproteobacteria; Oceanospirillales; Oceanospirillaceae; Amphritea; ,Amphritea atlantica,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Bacteroides_luti_001.rechained.pdb,nsdb-000262,DDKK,94.28280938123753,1297750,Bacteria; Bacteroidota; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides; ,Bacteroides luti,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Acidiferrobacter_sp_SPIII_3_001.rechained.pdb,nsdb-000263,DDKK,94.87816235059759,,,Acidiferrobacter sp SPIII 3,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
-Nif_Coraliomargarita_akajimensis_001.rechained.pdb,nsdb-000264,DDKK,93.82789085545723,395922,Bacteria; Verrucomicrobiota; Opitutae; Puniceicoccales; Coraliomargaritaceae; Coraliomargarita; ,Coraliomargarita akajimensis,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
+Nif_Coraliomargarita_akajimensis_001.rechained.pdb,nsdb-000264,DDKK,93.82789085545723,395922,Bacteria; Verrucomicrobiota; Opitutia; Puniceicoccales; Coraliomargaritaceae; Coraliomargarita; ,Coraliomargarita akajimensis,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Acuticoccus_sp_PTG4-2_001.rechained.pdb,nsdb-000265,DDKK,95.27302554027506,,,Acuticoccus sp PTG4-2,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Phycisphaeraceae_bacterium_001.rechained.pdb,nsdb-000266,DDKK,94.1662122687439,2026777,Bacteria; Planctomycetota; Phycisphaerae; Phycisphaerales; Phycisphaeraceae; ,Phycisphaeraceae bacterium,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
-Nif_Candidatus_Viridilinea_mediisalina_001.rechained.pdb,nsdb-000267,DDKK,90.98976939203355,2024553,Bacteria; Chloroflexota; Chloroflexia; Chloroflexales; Chloroflexineae; Oscillochloridaceae; Viridilinea; ,Candidatus Viridilinea mediisalina,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-iii
+Nif_Candidatus_Viridilinea_mediisalina_001.rechained.pdb,nsdb-000267,DDKK,90.98976939203355,2024553,Bacteria; Chloroflexota; Chloroflexia; Chloroflexales; Chloroflexineae; Oscillochloridaceae; Candidatus Viridilinea; ,Candidatus Viridilinea mediisalina,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-iii
 Nif_Desulfosporosinus_fructosivorans_001.rechained.pdb,nsdb-000268,DDKK,95.36085084033613,2018669,Bacteria; Bacillota; Clostridia; Eubacteriales; Desulfitobacteriaceae; Desulfosporosinus; ,Desulfosporosinus fructosivorans,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_archaeon_BMS3Abin16_001.rechained.pdb,nsdb-000269,DDKK,92.74690810810809,2005740,Archaea; ,archaeon BMS3Abin16,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-iii
 Nif_Hydrogenispora_ethanolica_001.rechained.pdb,nsdb-000270,DDKK,95.14872,1082276,Bacteria; Bacillota; Hydrogenispora; ,Hydrogenispora ethanolica,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
@@ -322,7 +322,7 @@ Nif_Desulforhopalus_singaporensis_001.rechained.pdb,nsdb-000320,DDKK,94.13772954
 Nif_Actinobacteria_bacterium_HGW-Actinobacteria-10_001.rechained.pdb,nsdb-000321,DDKK,94.7457804632427,2013645,Bacteria; Actinomycetota; ,Actinobacteria bacterium HGW-Actinobacteria-10,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Dehalobacter_001.rechained.pdb,nsdb-000322,DDKK,93.51595164609054,56112,Bacteria; Bacillota; Clostridia; Eubacteriales; Desulfitobacteriaceae; ,Dehalobacter,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Geminicoccaceae_bacterium_001.rechained.pdb,nsdb-000323,DDKK,93.69182174338884,2448052,Bacteria; Pseudomonadota; Alphaproteobacteria; Geminicoccales; Geminicoccaceae; ,Geminicoccaceae bacterium,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
-Nif_Rhodoblastus_acidophilus_001.rechained.pdb,nsdb-000324,DDKK,94.57642927308447,1074,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Beijerinckiaceae; Rhodoblastus; ,Rhodoblastus acidophilus,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
+Nif_Rhodoblastus_acidophilus_001.rechained.pdb,nsdb-000324,DDKK,94.57642927308447,1074,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Rhodoblastaceae; Rhodoblastus; ,Rhodoblastus acidophilus,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Thermoanaerobacterium_thermosaccharolyticum_001.rechained.pdb,nsdb-000325,DDKK,93.77516112789527,1517,Bacteria; Bacillota; Clostridia; Thermoanaerobacterales; Thermoanaerobacteraceae; Thermoanaerobacterium; ,Thermoanaerobacterium thermosaccharolyticum,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
 Nif_Klebsiella_pneumoniae_001.rechained.pdb,nsdb-000326,DDKK,95.1713872255489,573,Bacteria; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella/Raoultella group; Klebsiella; ,Klebsiella pneumoniae,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-i
 Nif_Holophaga_foetida_001.rechained.pdb,nsdb-000327,DDKK,94.42915590863952,35839,Bacteria; Acidobacteriota; Holophagae; Holophagales; Holophagaceae; Holophaga; ,Holophaga foetida,False,Nif,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,nif-ii
@@ -361,14 +361,14 @@ Vnf_Azotobacter_vinelandii_001.rechained.pdb,nsdb-000359,DDKK,93.99788724973656,
 Anf_Methanosarcina_acetivorans_C2A_001.rechained.pdb,nsdb-000360,DDKK,93.37975050916498,188937,Archaea; Euryarchaeota; Stenosarchaea group; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina; ,Methanosarcina acetivorans C2A,False,Anf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
 Anf_Phaeospirillum_fulvum_001.rechained.pdb,nsdb-000361,DDKK,94.00023421588595,,,Phaeospirillum fulvum,False,Anf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
 Anf_Desulfosporosinus_fructosivorans_001.rechained.pdb,nsdb-000362,DDKK,92.85281754032258,2018669,Bacteria; Bacillota; Clostridia; Eubacteriales; Desulfitobacteriaceae; Desulfosporosinus; ,Desulfosporosinus fructosivorans,False,Anf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
-Vnf_Rhodoblastus_acidophilus_001.rechained.pdb,nsdb-000363,DDKK,94.39075562700965,1074,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Beijerinckiaceae; Rhodoblastus; ,Rhodoblastus acidophilus,False,Vnf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
+Vnf_Rhodoblastus_acidophilus_001.rechained.pdb,nsdb-000363,DDKK,94.39075562700965,1074,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Rhodoblastaceae; Rhodoblastus; ,Rhodoblastus acidophilus,False,Vnf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
 Vnf_Methylocystis_parvus_001.rechained.pdb,nsdb-000364,DDKK,94.3347965738758,134,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Methylocystaceae; Methylocystis; ,Methylocystis parvus,False,Vnf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
 Anf_Thiorhodococcus_drewsii_001.rechained.pdb,nsdb-000365,DDKK,94.08512158054711,210408,Bacteria; Pseudomonadota; Gammaproteobacteria; Chromatiales; Chromatiaceae; Thiorhodococcus; ,Thiorhodococcus drewsii,False,Anf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
 Vnf_Archaeoglobus_sp_001.rechained.pdb,nsdb-000366,DDKK,94.86556034482757,,,Archaeoglobus sp,False,Vnf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
 Anf_Desulfovibrio_desulfuricans_001.rechained.pdb,nsdb-000367,DDKK,95.16900306748467,876,Bacteria; Thermodesulfobacteriota; Desulfovibrionia; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio; ,Desulfovibrio desulfuricans,False,Anf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
 Vnf_Azomonas_agilis_001.rechained.pdb,nsdb-000368,DDKK,93.8335970464135,116849,Bacteria; Pseudomonadota; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Azomonas; ,Azomonas agilis,False,Vnf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
 Vnf_Ethanoligenens_harbinense_001.rechained.pdb,nsdb-000369,DDKK,94.61919372294373,253239,Bacteria; Bacillota; Clostridia; Eubacteriales; Oscillospiraceae; Ethanoligenens; ,Ethanoligenens harbinense,False,Vnf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
-Anf_Rhodoblastus_acidophilus_001.rechained.pdb,nsdb-000370,DDKK,94.33968052738335,1074,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Beijerinckiaceae; Rhodoblastus; ,Rhodoblastus acidophilus,False,Anf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
+Anf_Rhodoblastus_acidophilus_001.rechained.pdb,nsdb-000370,DDKK,94.33968052738335,1074,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Rhodoblastaceae; Rhodoblastus; ,Rhodoblastus acidophilus,False,Anf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
 Anf_Clostridium_pasteurianum_001.rechained.pdb,nsdb-000371,DDKK,94.18574974670719,1501,Bacteria; Bacillota; Clostridia; Eubacteriales; Clostridiaceae; Clostridium; ,Clostridium pasteurianum,False,Anf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
 Vnf_Rhodopseudomonas_palustris_001.rechained.pdb,nsdb-000372,DDKK,94.46321199143469,1076,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Nitrobacteraceae; Rhodopseudomonas; ,Rhodopseudomonas palustris,False,Vnf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
 Anf_Anaerocolumna_jejuensis_001.rechained.pdb,nsdb-000373,DDKK,93.74521276595745,259063,Bacteria; Bacillota; Clostridia; Lachnospirales; Lachnospiraceae; Anaerocolumna; ,Anaerocolumna jejuensis,False,Anf,gold,"{'A': 'D', 'B': 'K', 'D': 'D', 'E': 'K'}",WT,an
@@ -905,7 +905,7 @@ Anc_1458_map_001.rechained.pdb,nsdb-000903,HH,88.66503663003662,Anc_1458_map,Anc
 Nif_uncultured_archaeon_001.rechained.pdb,nsdb-000904,HH,90.32295620437957,115547,Archaea; environmental samples; ,uncultured archaeon,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-iii
 Anc_1212_map_001.rechained.pdb,nsdb-000905,HH,89.04721254355401,Anc_1212_map,Anc_1212_map,Anc_1212_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
 Nif_Massilibacillus_massiliensis_001.rechained.pdb,nsdb-000906,HH,88.4424358974359,1806837,Bacteria; Bacillota; Negativicutes; Veillonellales; Veillonellaceae; Massilibacillus; ,Massilibacillus massiliensis,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
-Nif_Caldicellulosiruptor_saccharolyticus_001.rechained.pdb,nsdb-000907,HH,87.87461538461538,44001,Bacteria; Bacillota; Clostridia; Caldicellulosiruptorales; Caldicellulosiruptoraceae; Caldicellulosiruptor; ,Caldicellulosiruptor saccharolyticus,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-iii
+Nif_Caldicellulosiruptor_saccharolyticus_001.rechained.pdb,nsdb-000907,HH,87.87461538461538,44001,Bacteria; Bacillota; Bacillota incertae sedis; Caldicellulosiruptorales; Caldicellulosiruptoraceae; Caldicellulosiruptor; ,Caldicellulosiruptor saccharolyticus,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-iii
 Anc_1490_map_001.rechained.pdb,nsdb-000908,HH,87.9727205882353,Anc_1490_map,Anc_1490_map,Anc_1490_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
 Nif_Magnetovibrio_blakemorei_001.rechained.pdb,nsdb-000909,HH,88.8944983277592,28181,Bacteria; Pseudomonadota; Alphaproteobacteria; Rhodospirillales; Magnetovibrionaceae; Magnetovibrio; ,Magnetovibrio blakemorei,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Anc_773_map_001.rechained.pdb,nsdb-000910,HH,89.51603636363636,Anc_773_map,Anc_773_map,Anc_773_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,an
@@ -917,7 +917,7 @@ Anc_1401_map_001.rechained.pdb,nsdb-000915,HH,88.78224452554744,Anc_1401_map,Anc
 Anc_1232_map_001.rechained.pdb,nsdb-000916,HH,87.9532474226804,Anc_1232_map,Anc_1232_map,Anc_1232_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
 Nif_Spirochaeta_thermophila_001.rechained.pdb,nsdb-000917,HH,88.61304744525549,154,Bacteria; Spirochaetota; Spirochaetia; Spirochaetales; Spirochaetaceae; Spirochaeta; ,Spirochaeta thermophila,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Anc_1240_map_001.rechained.pdb,nsdb-000918,HH,85.47937288135593,Anc_1240_map,Anc_1240_map,Anc_1240_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
-Nif_Desulfurobacterium_atlanticum_001.rechained.pdb,nsdb-000919,HH,87.19534482758621,240169,Bacteria; Aquificota; Aquificae; Desulfurobacteriales; Desulfurobacteriaceae; Desulfurobacterium; ,Desulfurobacterium atlanticum,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
+Nif_Desulfurobacterium_atlanticum_001.rechained.pdb,nsdb-000919,HH,87.19534482758621,240169,Bacteria; Aquificota; Aquificia; Desulfurobacteriales; Desulfurobacteriaceae; Desulfurobacterium; ,Desulfurobacterium atlanticum,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Nif_Pseudobacteroides_cellulosolvens_001.rechained.pdb,nsdb-000920,HH,87.4473076923077,35825,Bacteria; Bacillota; Clostridia; Eubacteriales; Oscillospiraceae; Pseudobacteroides; ,Pseudobacteroides cellulosolvens,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Nif_Paludibacter_propionicigenes_001.rechained.pdb,nsdb-000921,HH,90.09425182481752,185300,Bacteria; Bacteroidota; Bacteroidia; Bacteroidales; Paludibacteraceae; Paludibacter; ,Paludibacter propionicigenes,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Nif_Rhodocyclaceae_bacterium_001.rechained.pdb,nsdb-000922,HH,87.86790102389078,1898103,Bacteria; Pseudomonadota; Betaproteobacteria; Rhodocyclales; Rhodocyclaceae; ,Rhodocyclaceae bacterium,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
@@ -959,7 +959,7 @@ Anc_1402_map_001.rechained.pdb,nsdb-000957,HH,87.24658759124088,Anc_1402_map,Anc
 Nif_Polaromonas_naphthalenivorans_001.rechained.pdb,nsdb-000958,HH,88.72315878378379,216465,Bacteria; Pseudomonadota; Betaproteobacteria; Burkholderiales; Comamonadaceae; Polaromonas; ,Polaromonas naphthalenivorans,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Nif_Kiritimatiellales_bacterium_001.rechained.pdb,nsdb-000959,HH,88.6220802919708,2202731,Bacteria; Kiritimatiellota; Kiritimatiellia; Kiritimatiellales; ,Kiritimatiellales bacterium,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Anc_806_map_001.rechained.pdb,nsdb-000960,HH,89.50590909090909,Anc_806_map,Anc_806_map,Anc_806_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-iii
-Nif_Pseudoclostridium_thermosuccinogenes_001.rechained.pdb,nsdb-000961,HH,88.08599264705882,84032,Bacteria; Bacillota; Clostridia; Eubacteriales; Oscillospiraceae; Pseudoclostridium; ,Pseudoclostridium thermosuccinogenes,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
+Nif_Pseudoclostridium_thermosuccinogenes_001.rechained.pdb,nsdb-000961,HH,88.08599264705882,,,Pseudoclostridium thermosuccinogenes,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Anc_1418_map_001.rechained.pdb,nsdb-000962,HH,89.29717153284673,Anc_1418_map,Anc_1418_map,Anc_1418_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
 Anc_1433_map_001.rechained.pdb,nsdb-000963,HH,87.88790145985402,Anc_1433_map,Anc_1433_map,Anc_1433_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
 Anc_1486_map_001.rechained.pdb,nsdb-000964,HH,87.75406593406593,Anc_1486_map,Anc_1486_map,Anc_1486_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
@@ -970,7 +970,7 @@ Nif_Seleniivibrio_woodruffii_001.rechained.pdb,nsdb-000968,HH,89.52532871972318,
 Nif_Syntrophothermus_lipocalidus_001.rechained.pdb,nsdb-000969,HH,88.71345454545454,86170,Bacteria; Bacillota; Clostridia; Eubacteriales; Syntrophomonadaceae; Syntrophothermus; ,Syntrophothermus lipocalidus,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-iii
 Anc_1305_map_001.rechained.pdb,nsdb-000970,HH,89.20191126279865,Anc_1305_map,Anc_1305_map,Anc_1305_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
 Anc_1453_map_001.rechained.pdb,nsdb-000971,HH,88.22912727272728,Anc_1453_map,Anc_1453_map,Anc_1453_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
-Nif_Verrucomicrobiae_bacterium_DG1235_001.rechained.pdb,nsdb-000972,HH,87.06091240875912,382464,Bacteria; Verrucomicrobiota; Verrucomicrobiae; ,Verrucomicrobiae bacterium DG1235,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
+Nif_Verrucomicrobiae_bacterium_DG1235_001.rechained.pdb,nsdb-000972,HH,87.06091240875912,,,Verrucomicrobiae bacterium DG1235,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Nif_Halanaerobium_salsuginis_001.rechained.pdb,nsdb-000973,HH,86.8635842293907,29563,Bacteria; Bacillota; Clostridia; Halanaerobiales; Halanaerobiaceae; Halanaerobium; ,Halanaerobium salsuginis,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Nif_Wolinella_succinogenes_001.rechained.pdb,nsdb-000974,HH,88.50731023102308,844,Bacteria; Campylobacterota; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Wolinella; ,Wolinella succinogenes,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Anc_1482_map_001.rechained.pdb,nsdb-000975,HH,88.12250915750917,Anc_1482_map,Anc_1482_map,Anc_1482_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
@@ -1012,7 +1012,7 @@ Anc_1504_map_001.rechained.pdb,nsdb-001010,HH,88.09016483516483,Anc_1504_map,Anc
 Nif_Rhodothalassium_salexigens_001.rechained.pdb,nsdb-001011,HH,86.47409863945579,1086,Bacteria; Pseudomonadota; Alphaproteobacteria; Rhodothalassiales; Rhodothalassiaceae; Rhodothalassium; ,Rhodothalassium salexigens,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Anc_1256_map_001.rechained.pdb,nsdb-001012,HH,87.96588926174496,Anc_1256_map,Anc_1256_map,Anc_1256_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
 Anc_1341_map_001.rechained.pdb,nsdb-001013,HH,87.48093103448277,Anc_1341_map,Anc_1341_map,Anc_1341_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
-Vnf_Rhodoblastus_acidophilus_001.rechained.pdb,nsdb-001014,HH,89.38779310344827,1074,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Beijerinckiaceae; Rhodoblastus; ,Rhodoblastus acidophilus,False,Vnf,gold,"{'A': 'H', 'B': 'H'}",WT,an
+Vnf_Rhodoblastus_acidophilus_001.rechained.pdb,nsdb-001014,HH,89.38779310344827,1074,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Rhodoblastaceae; Rhodoblastus; ,Rhodoblastus acidophilus,False,Vnf,gold,"{'A': 'H', 'B': 'H'}",WT,an
 Nif_Pseudodesulfovibrio_hydrargyri_001.rechained.pdb,nsdb-001015,HH,87.92333333333333,2125990,Bacteria; Thermodesulfobacteriota; Desulfovibrionia; Desulfovibrionales; Desulfovibrionaceae; ,Pseudodesulfovibrio hydrargyri,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Anc_776_map_001.rechained.pdb,nsdb-001016,HH,89.91565454545454,Anc_776_map,Anc_776_map,Anc_776_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,an
 Nif_Mariprofundus_ferrooxydans_001.rechained.pdb,nsdb-001017,HH,89.5333277027027,314344,Bacteria; Pseudomonadota; Zetaproteobacteria; Mariprofundales; Mariprofundaceae; Mariprofundus; ,Mariprofundus ferrooxydans,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
@@ -1024,7 +1024,7 @@ Nif_Halorhodospira_halochloris_001.rechained.pdb,nsdb-001022,HH,87.1634470989761
 Nif_Methanobrevibacter_curvatus_001.rechained.pdb,nsdb-001023,HH,89.08538181818183,49547,Archaea; Euryarchaeota; Methanomada group; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter; ,Methanobrevibacter curvatus,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-iii
 Anc_1496_map_001.rechained.pdb,nsdb-001024,HH,88.00576923076922,Anc_1496_map,Anc_1496_map,Anc_1496_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
 Anc_1292_map_001.rechained.pdb,nsdb-001025,HH,89.11235494880546,Anc_1292_map,Anc_1292_map,Anc_1292_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
-Nif_Geminisphaera_colitermitum_001.rechained.pdb,nsdb-001026,HH,88.44697080291971,1148786,Bacteria; Verrucomicrobiota; Opitutae; Opitutales; Opitutaceae; Geminisphaera; ,Geminisphaera colitermitum,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
+Nif_Geminisphaera_colitermitum_001.rechained.pdb,nsdb-001026,HH,88.44697080291971,1148786,Bacteria; Verrucomicrobiota; Opitutia; Opitutales; Opitutaceae; Geminisphaera; ,Geminisphaera colitermitum,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Nif_Methyloprofundus_sedimenti_001.rechained.pdb,nsdb-001027,HH,89.09807560137457,1420851,Bacteria; Pseudomonadota; Gammaproteobacteria; Methylococcales; Methylococcaceae; Methyloprofundus; ,Methyloprofundus sedimenti,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Nif_Marinobacter_sp_ES-1_001.rechained.pdb,nsdb-001028,HH,87.80407849829352,,,Marinobacter sp ES-1,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Anc_1329_map_001.rechained.pdb,nsdb-001029,HH,88.82986531986532,Anc_1329_map,Anc_1329_map,Anc_1329_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
@@ -1053,7 +1053,7 @@ Nif_Desulfoglaeba_alkanexedens_001.rechained.pdb,nsdb-001051,HH,90.2072445255474
 Anc_1475_map_001.rechained.pdb,nsdb-001052,HH,87.59428571428572,Anc_1475_map,Anc_1475_map,Anc_1475_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
 Anc_1297_map_001.rechained.pdb,nsdb-001053,HH,89.03503401360545,Anc_1297_map,Anc_1297_map,Anc_1297_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
 Nif_bacterium_BMS3Bbin07_001.rechained.pdb,nsdb-001054,HH,88.78745519713262,2005730,Bacteria; ,bacterium BMS3Bbin07,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
-Nif_Opitutaceae_bacterium_EW11_001.rechained.pdb,nsdb-001055,HH,87.41571167883211,2161865,Bacteria; Verrucomicrobiota; Opitutae; Opitutales; Opitutaceae; ,Opitutaceae bacterium EW11,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
+Nif_Opitutaceae_bacterium_EW11_001.rechained.pdb,nsdb-001055,HH,87.41571167883211,2161865,Bacteria; Verrucomicrobiota; Opitutia; Opitutales; Opitutaceae; ,Opitutaceae bacterium EW11,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Nif_Methanobacteriales_archaeon_HGW-Methanobacteriales-1_001.rechained.pdb,nsdb-001056,HH,89.25312727272727,2013815,Archaea; Euryarchaeota; Methanomada group; Methanobacteria; Methanobacteriales; ,Methanobacteriales archaeon HGW-Methanobacteriales-1,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-iii
 Nif_cyanobacterium_endosymbiont_of_Epithemia_turgida_001.rechained.pdb,nsdb-001057,HH,83.79377586206897,718217,Bacteria; Cyanobacteriota; ,cyanobacterium endosymbiont of Epithemia turgida,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Nif_Dehalogenimonas_sp_WBC-2_001.rechained.pdb,nsdb-001058,HH,88.59096715328467,,,Dehalogenimonas sp WBC-2,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
@@ -1080,7 +1080,7 @@ Anc_1241_map_001.rechained.pdb,nsdb-001078,HH,84.40956896551725,Anc_1241_map,Anc
 Nif_Solimonas_aquatica_001.rechained.pdb,nsdb-001079,HH,90.07879661016949,489703,Bacteria; Pseudomonadota; Gammaproteobacteria; Nevskiales; Nevskiaceae; Solimonas; ,Solimonas aquatica,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Nif_Cellulosilyticum_lentocellum_001.rechained.pdb,nsdb-001080,HH,87.1524080882353,29360,Bacteria; Bacillota; Clostridia; Lachnospirales; Cellulosilyticaceae; Cellulosilyticum; ,Cellulosilyticum lentocellum,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Nif_Clostridium_populeti_001.rechained.pdb,nsdb-001081,HH,88.28856617647058,,,Clostridium populeti,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
-Nif_Chrysiogenes_arsenatis_001.rechained.pdb,nsdb-001082,HH,87.60974226804123,309797,Bacteria; Chrysiogenota; Chrysiogenetes; Chrysiogenales; Chrysiogenaceae; Chrysiogenes; ,Chrysiogenes arsenatis,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
+Nif_Chrysiogenes_arsenatis_001.rechained.pdb,nsdb-001082,HH,87.60974226804123,309797,Bacteria; Chrysiogenota; Chrysiogenia; Chrysiogenales; Chrysiogenaceae; Chrysiogenes; ,Chrysiogenes arsenatis,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Nif_Serratia_sp_ATCC_39006_001.rechained.pdb,nsdb-001083,HH,88.45005119453924,,,Serratia sp ATCC 39006,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Anc_1208_map_001.rechained.pdb,nsdb-001084,HH,85.33493006993007,Anc_1208_map,Anc_1208_map,Anc_1208_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
 Nif_Desulfamplus_magnetovallimortis_001.rechained.pdb,nsdb-001085,HH,86.5457116788321,1246637,Bacteria; Thermodesulfobacteriota; Desulfobacteria; Desulfobacterales; Desulfobacteraceae; Desulfamplus; ,Desulfamplus magnetovallimortis,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
@@ -1115,7 +1115,7 @@ Nif_Acetobacterium_woodii_001.rechained.pdb,nsdb-001113,HH,88.71785714285714,339
 Nif_Nitrospirae_bacterium_GWC2_57_13_001.rechained.pdb,nsdb-001114,HH,87.86530357142857,,,Nitrospirae bacterium GWC2 57 13,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Anc_777_map_001.rechained.pdb,nsdb-001115,HH,89.2534,Anc_777_map,Anc_777_map,Anc_777_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,an
 Nif_Cohaesibacter_haloalkalitolerans_001.rechained.pdb,nsdb-001116,HH,88.2870890410959,1162980,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Cohaesibacteraceae; ,Cohaesibacter haloalkalitolerans,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
-Nif_Candidatus_Magnetoovum_chiemensis_001.rechained.pdb,nsdb-001117,HH,85.72210714285715,1609970,Bacteria; Nitrospirota; Nitrospiria; Nitrospirales; Nitrospiraceae; Magnetoovum; ,Candidatus Magnetoovum chiemensis,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
+Nif_Candidatus_Magnetoovum_chiemensis_001.rechained.pdb,nsdb-001117,HH,85.72210714285715,1609970,Bacteria; Nitrospirota; Nitrospiria; Nitrospirales; Nitrospiraceae; Candidatus Magnetoovum; ,Candidatus Magnetoovum chiemensis,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Nif_Anaerotignum_neopropionicum_001.rechained.pdb,nsdb-001118,HH,88.81227941176472,36847,Bacteria; Bacillota; Clostridia; Lachnospirales; Anaerotignaceae; Anaerotignum; ,Anaerotignum neopropionicum,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Nif_Carboxydocella_sp_ULO1_001.rechained.pdb,nsdb-001119,HH,87.65877289377289,,,Carboxydocella sp ULO1,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Anc_1462_map_001.rechained.pdb,nsdb-001120,HH,87.81448717948719,Anc_1462_map,Anc_1462_map,Anc_1462_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
@@ -1158,7 +1158,7 @@ Anc_1266_map_001.rechained.pdb,nsdb-001156,HH,87.23972881355932,Anc_1266_map,Anc
 Nif_Dysgonomonas_capnocytophagoides_001.rechained.pdb,nsdb-001157,HH,89.01708029197079,45254,Bacteria; Bacteroidota; Bacteroidia; Bacteroidales; Dysgonomonadaceae; Dysgonomonas; ,Dysgonomonas capnocytophagoides,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Nif_Geothermobacter_sp_EPR-M_001.rechained.pdb,nsdb-001158,HH,89.0555400696864,,,Geothermobacter sp EPR-M,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Anc_1364_map_001.rechained.pdb,nsdb-001159,HH,88.1128102189781,Anc_1364_map,Anc_1364_map,Anc_1364_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
-Anf_Rhodoblastus_acidophilus_001.rechained.pdb,nsdb-001160,HH,90.4143090909091,1074,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Beijerinckiaceae; Rhodoblastus; ,Rhodoblastus acidophilus,False,Anf,gold,"{'A': 'H', 'B': 'H'}",WT,an
+Anf_Rhodoblastus_acidophilus_001.rechained.pdb,nsdb-001160,HH,90.4143090909091,1074,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Rhodoblastaceae; Rhodoblastus; ,Rhodoblastus acidophilus,False,Anf,gold,"{'A': 'H', 'B': 'H'}",WT,an
 Nif_Verrucomicrobia_bacterium_Tous-C9LFEB_001.rechained.pdb,nsdb-001161,HH,88.23821818181818,1982333,Bacteria; Verrucomicrobiota; ,Verrucomicrobia bacterium Tous-C9LFEB,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Nif_Gorillibacterium_timonense_001.rechained.pdb,nsdb-001162,HH,85.99890202702703,1689269,Bacteria; Bacillota; Bacilli; Bacillales; Paenibacillaceae; Gorillibacterium; ,Gorillibacterium timonense,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Anc_1470_map_001.rechained.pdb,nsdb-001163,HH,88.02571428571429,Anc_1470_map,Anc_1470_map,Anc_1470_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
@@ -1170,7 +1170,7 @@ Anc_1354_map_001.rechained.pdb,nsdb-001168,HH,89.12700729927009,Anc_1354_map,Anc
 Anc_1309_map_001.rechained.pdb,nsdb-001169,HH,89.03616040955632,Anc_1309_map,Anc_1309_map,Anc_1309_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
 Anc_1262_map_001.rechained.pdb,nsdb-001170,HH,86.6967288135593,Anc_1262_map,Anc_1262_map,Anc_1262_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
 Nif_Acidihalobacter_prosperus_001.rechained.pdb,nsdb-001171,HH,89.9267845117845,160660,Bacteria; Pseudomonadota; Gammaproteobacteria; Chromatiales; Ectothiorhodospiraceae; Acidihalobacter; ,Acidihalobacter prosperus,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
-Nif_Gaiellales_bacterium_001.rechained.pdb,nsdb-001172,HH,88.01210909090909,2093372,Bacteria; Actinomycetota; Rubrobacteria; Gaiellales; ,Gaiellales bacterium,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
+Nif_Gaiellales_bacterium_001.rechained.pdb,nsdb-001172,HH,88.01210909090909,2093372,Bacteria; Actinomycetota; Thermoleophilia; Gaiellales; ,Gaiellales bacterium,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Anc_1528_map_001.rechained.pdb,nsdb-001173,HH,88.58370437956205,Anc_1528_map,Anc_1528_map,Anc_1528_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-iii
 Nif_Fontibacillus_panacisegetis_001.rechained.pdb,nsdb-001174,HH,85.90740418118467,670482,Bacteria; Bacillota; Bacilli; Bacillales; Paenibacillaceae; Fontibacillus; ,Fontibacillus panacisegetis,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Nif_Calditerrivibrio_nitroreducens_001.rechained.pdb,nsdb-001175,HH,88.85897923875433,477976,Bacteria; Deferribacterota; Deferribacteres; Deferribacterales; Calditerrivibrionaceae; ,Calditerrivibrio nitroreducens,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
@@ -1224,7 +1224,7 @@ Nif_Geitlerinema_sp_PCC_9228_001.rechained.pdb,nsdb-001222,HH,87.95839416058395,
 Anc_1378_map_001.rechained.pdb,nsdb-001223,HH,88.76910583941606,Anc_1378_map,Anc_1378_map,Anc_1378_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
 Nif_Ectothiorhodospiraceae_bacterium_001.rechained.pdb,nsdb-001224,HH,89.06833333333333,2026737,Bacteria; Pseudomonadota; Gammaproteobacteria; Chromatiales; Ectothiorhodospiraceae; ,Ectothiorhodospiraceae bacterium,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Nif_Blastopirellula_marina_001.rechained.pdb,nsdb-001225,HH,88.2383676975945,124,Bacteria; Planctomycetota; Planctomycetia; Pirellulales; Pirellulaceae; Blastopirellula; ,Blastopirellula marina,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
-Nif_Candidatus_Acidulodesulfobacterium_acidiphilum_001.rechained.pdb,nsdb-001226,HH,84.49300699300699,2597224,Bacteria; Deltaproteobacteria; Candidatus Acidulodesulfobacterales; Acidulodesulfobacterium; ,Candidatus Acidulodesulfobacterium acidiphilum,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
+Nif_Candidatus_Acidulodesulfobacterium_acidiphilum_001.rechained.pdb,nsdb-001226,HH,84.49300699300699,2597224,Bacteria; Deltaproteobacteria; Candidatus Acidulodesulfobacterales; Candidatus Acidulodesulfobacterium; ,Candidatus Acidulodesulfobacterium acidiphilum,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Anc_1531_map_001.rechained.pdb,nsdb-001227,HH,91.3495238095238,Anc_1531_map,Anc_1531_map,Anc_1531_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-iii
 Anc_1352_map_001.rechained.pdb,nsdb-001228,HH,88.44419117647058,Anc_1352_map,Anc_1352_map,Anc_1352_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
 Nif_Fibrobacteres_bacterium_001.rechained.pdb,nsdb-001229,HH,88.66554744525547,,,Fibrobacteres bacterium,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
@@ -1259,7 +1259,7 @@ Vnf_Rhodopseudomonas_palustris_001.rechained.pdb,nsdb-001257,HH,87.9968074324324
 Anc_1494_map_001.rechained.pdb,nsdb-001258,HH,87.72542124542124,Anc_1494_map,Anc_1494_map,Anc_1494_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
 Nif_Lentisphaerae_bacterium_GWF2_57_35_001.rechained.pdb,nsdb-001259,HH,88.88120437956205,,,Lentisphaerae bacterium GWF2 57 35,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Nif_Anaeroarcus_burkinensis_001.rechained.pdb,nsdb-001260,HH,88.43465073529413,82376,Bacteria; Bacillota; Negativicutes; Selenomonadales; Sporomusaceae; Anaeroarcus; ,Anaeroarcus burkinensis,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
-Nif_Candidatus_Methanoperedens_nitroreducens_001.rechained.pdb,nsdb-001261,HH,87.17277372262774,1392998,Archaea; Euryarchaeota; Stenosarchaea group; Methanomicrobia; Methanosarcinales; Candidatus Methanoperedenaceae; Methanoperedens; ,Candidatus Methanoperedens nitroreducens,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-iii
+Nif_Candidatus_Methanoperedens_nitroreducens_001.rechained.pdb,nsdb-001261,HH,87.17277372262774,1392998,Archaea; Euryarchaeota; Stenosarchaea group; Methanomicrobia; Methanosarcinales; Candidatus Methanoperedenaceae; Candidatus Methanoperedens; ,Candidatus Methanoperedens nitroreducens,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-iii
 Anc_1534_map_001.rechained.pdb,nsdb-001262,HH,91.84569597069597,Anc_1534_map,Anc_1534_map,Anc_1534_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-iii
 Anc_1431_map_001.rechained.pdb,nsdb-001263,HH,88.61200729927008,Anc_1431_map,Anc_1431_map,Anc_1431_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
 Anc_1280_map_001.rechained.pdb,nsdb-001264,HH,89.3137925170068,Anc_1280_map,Anc_1280_map,Anc_1280_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
@@ -1321,7 +1321,7 @@ Vnf_Paenibacillus_durus_001.rechained.pdb,nsdb-001319,HH,88.74180000000001,44251
 Nif_Desulfovibrio_desulfuricans_001.rechained.pdb,nsdb-001320,HH,88.6320695970696,876,Bacteria; Thermodesulfobacteriota; Desulfovibrionia; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio; ,Desulfovibrio desulfuricans,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Vnf_Desulfobacter_curvatus_001.rechained.pdb,nsdb-001321,HH,91.30554545454545,2290,Bacteria; Thermodesulfobacteriota; Desulfobacteria; Desulfobacterales; Desulfobacteraceae; Desulfobacter; ,Desulfobacter curvatus,False,Vnf,gold,"{'A': 'H', 'B': 'H'}",WT,an
 Anc_1406_map_001.rechained.pdb,nsdb-001322,HH,87.0523905109489,Anc_1406_map,Anc_1406_map,Anc_1406_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
-Nif_Candidatus_Acididesulfobacter_diazotrophicus_001.rechained.pdb,nsdb-001323,HH,84.77589965397924,2597226,Bacteria; Deltaproteobacteria; Candidatus Acidulodesulfobacterales; Acididesulfobacter; ,Candidatus Acididesulfobacter diazotrophicus,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
+Nif_Candidatus_Acididesulfobacter_diazotrophicus_001.rechained.pdb,nsdb-001323,HH,84.77589965397924,2597226,Bacteria; Deltaproteobacteria; Candidatus Acidulodesulfobacterales; Candidatus Acididesulfobacter; ,Candidatus Acididesulfobacter diazotrophicus,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Anc_1514_map_001.rechained.pdb,nsdb-001324,HH,87.98987132352941,Anc_1514_map,Anc_1514_map,Anc_1514_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
 Anc_1327_map_001.rechained.pdb,nsdb-001325,HH,88.70454237288136,Anc_1327_map,Anc_1327_map,Anc_1327_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
 Anc_1234_map_001.rechained.pdb,nsdb-001326,HH,88.49878289473685,Anc_1234_map,Anc_1234_map,Anc_1234_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
@@ -1338,7 +1338,7 @@ Nif_Bacteroides_luti_001.rechained.pdb,nsdb-001336,HH,88.85282846715329,1297750,
 Anc_811_map_001.rechained.pdb,nsdb-001337,HH,90.1850883392226,Anc_811_map,Anc_811_map,Anc_811_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-iii
 Nif_Acidiferrobacter_sp_SPIII_3_001.rechained.pdb,nsdb-001338,HH,88.06909863945579,,,Acidiferrobacter sp SPIII 3,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Anc_1390_map_001.rechained.pdb,nsdb-001339,HH,87.97567028985509,Anc_1390_map,Anc_1390_map,Anc_1390_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
-Nif_Coraliomargarita_akajimensis_001.rechained.pdb,nsdb-001340,HH,88.67624999999998,395922,Bacteria; Verrucomicrobiota; Opitutae; Puniceicoccales; Coraliomargaritaceae; Coraliomargarita; ,Coraliomargarita akajimensis,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
+Nif_Coraliomargarita_akajimensis_001.rechained.pdb,nsdb-001340,HH,88.67624999999998,395922,Bacteria; Verrucomicrobiota; Opitutia; Puniceicoccales; Coraliomargaritaceae; Coraliomargarita; ,Coraliomargarita akajimensis,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
 Anc_1308_map_001.rechained.pdb,nsdb-001341,HH,89.07706484641639,Anc_1308_map,Anc_1308_map,Anc_1308_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
 Anc_804_map_001.rechained.pdb,nsdb-001342,HH,88.87698181818182,Anc_804_map,Anc_804_map,Anc_804_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-iii
 Anc_1479_map_001.rechained.pdb,nsdb-001343,HH,87.80941176470589,Anc_1479_map,Anc_1479_map,Anc_1479_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
@@ -1348,7 +1348,7 @@ Anc_1222_map_001.rechained.pdb,nsdb-001346,HH,90.33261818181819,Anc_1222_map,Anc
 Anf_Dysgonomonas_capnocytophagoides_001.rechained.pdb,nsdb-001347,HH,90.43819343065694,45254,Bacteria; Bacteroidota; Bacteroidia; Bacteroidales; Dysgonomonadaceae; Dysgonomonas; ,Dysgonomonas capnocytophagoides,False,Anf,gold,"{'A': 'H', 'B': 'H'}",WT,an
 Nif_Acuticoccus_sp_PTG4-2_001.rechained.pdb,nsdb-001348,HH,88.60486394557823,,,Acuticoccus sp PTG4-2,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Nif_Phycisphaeraceae_bacterium_001.rechained.pdb,nsdb-001349,HH,88.09833333333333,2026777,Bacteria; Planctomycetota; Phycisphaerae; Phycisphaerales; Phycisphaeraceae; ,Phycisphaeraceae bacterium,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-ii
-Nif_Candidatus_Viridilinea_mediisalina_001.rechained.pdb,nsdb-001350,HH,90.2552380952381,2024553,Bacteria; Chloroflexota; Chloroflexia; Chloroflexales; Chloroflexineae; Oscillochloridaceae; Viridilinea; ,Candidatus Viridilinea mediisalina,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-iii
+Nif_Candidatus_Viridilinea_mediisalina_001.rechained.pdb,nsdb-001350,HH,90.2552380952381,2024553,Bacteria; Chloroflexota; Chloroflexia; Chloroflexales; Chloroflexineae; Oscillochloridaceae; Candidatus Viridilinea; ,Candidatus Viridilinea mediisalina,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-iii
 Anc_1291_map_001.rechained.pdb,nsdb-001351,HH,88.55464163822526,Anc_1291_map,Anc_1291_map,Anc_1291_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
 Anc_812_map_001.rechained.pdb,nsdb-001352,HH,91.24202464788732,Anc_812_map,Anc_812_map,Anc_812_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-iii
 Anc_1416_map_001.rechained.pdb,nsdb-001353,HH,90.21916058394162,Anc_1416_map,Anc_1416_map,Anc_1416_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
@@ -1486,7 +1486,7 @@ Anc_1375_map_001.rechained.pdb,nsdb-001484,HH,88.28492700729927,Anc_1375_map,Anc
 Anc_1207_map_001.rechained.pdb,nsdb-001485,HH,86.80872377622377,Anc_1207_map,Anc_1207_map,Anc_1207_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,other
 Anc_1210_map_001.rechained.pdb,nsdb-001486,HH,89.01714285714286,Anc_1210_map,Anc_1210_map,Anc_1210_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-i
 Anc_1488_map_001.rechained.pdb,nsdb-001487,HH,88.05117216117216,Anc_1488_map,Anc_1488_map,Anc_1488_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
-Nif_Rhodoblastus_acidophilus_001.rechained.pdb,nsdb-001488,HH,89.61056701030928,1074,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Beijerinckiaceae; Rhodoblastus; ,Rhodoblastus acidophilus,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
+Nif_Rhodoblastus_acidophilus_001.rechained.pdb,nsdb-001488,HH,89.61056701030928,1074,Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Rhodoblastaceae; Rhodoblastus; ,Rhodoblastus acidophilus,False,Nif,gold,"{'A': 'H', 'B': 'H'}",WT,nif-i
 Anc_1363_map_001.rechained.pdb,nsdb-001489,HH,88.61496350364963,Anc_1363_map,Anc_1363_map,Anc_1363_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
 Anc_1356_map_001.rechained.pdb,nsdb-001490,HH,88.56330291970804,Anc_1356_map,Anc_1356_map,Anc_1356_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,nif-ii
 Anc_799_map_001.rechained.pdb,nsdb-001491,HH,87.35554982817871,Anc_799_map,Anc_799_map,Anc_799_map,True,Anc,gold,"{'A': 'H', 'B': 'H'}",MAP,an
@@ -4831,3 +4831,539 @@ Anc_1333_alt5_001.rechained.pdb,nsdb-004829,HH,88.77674061433447,Anc_1333_alt5,A
 Anc_1330_alt5_001.rechained.pdb,nsdb-004830,HH,89.50327645051195,Anc_1330_alt5,Anc_1330_alt5,Anc_1330_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
 Anc_1441_alt4_001.rechained.pdb,nsdb-004831,HH,87.84587591240876,Anc_1441_alt4,Anc_1441_alt4,Anc_1441_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
 Anc_1255_alt2_001.rechained.pdb,nsdb-004832,HH,87.46209459459459,Anc_1255_alt2,Anc_1255_alt2,Anc_1255_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_800_alt5_001.rechained.pdb,nsdb-004833,HH,89.36893470790378,Anc_800_alt5,Anc_800_alt5,Anc_800_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_787_alt4_001.rechained.pdb,nsdb-004834,HH,90.84889090909091,Anc_787_alt4,Anc_787_alt4,Anc_787_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1471_alt4_001.rechained.pdb,nsdb-004835,HH,88.87031135531136,Anc_1471_alt4,Anc_1471_alt4,Anc_1471_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_814_alt2_001.rechained.pdb,nsdb-004836,HH,89.74883211678832,Anc_814_alt2,Anc_814_alt2,Anc_814_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_806_alt3_001.rechained.pdb,nsdb-004837,HH,89.78430909090909,Anc_806_alt3,Anc_806_alt3,Anc_806_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1507_alt5_001.rechained.pdb,nsdb-004838,HH,88.37989010989013,Anc_1507_alt5,Anc_1507_alt5,Anc_1507_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1485_alt3_001.rechained.pdb,nsdb-004839,HH,87.60635531135532,Anc_1485_alt3,Anc_1485_alt3,Anc_1485_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_804_alt3_001.rechained.pdb,nsdb-004840,HH,88.4456,Anc_804_alt3,Anc_804_alt3,Anc_804_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1524_alt4_001.rechained.pdb,nsdb-004841,HH,88.21687499999999,Anc_1524_alt4,Anc_1524_alt4,Anc_1524_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1513_alt5_001.rechained.pdb,nsdb-004842,HH,88.72935661764706,Anc_1513_alt5,Anc_1513_alt5,Anc_1513_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1506_alt4_001.rechained.pdb,nsdb-004843,HH,88.04461538461538,Anc_1506_alt4,Anc_1506_alt4,Anc_1506_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1526_alt5_001.rechained.pdb,nsdb-004844,HH,90.56868131868131,Anc_1526_alt5,Anc_1526_alt5,Anc_1526_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_773_alt2_001.rechained.pdb,nsdb-004845,HH,89.33649090909091,Anc_773_alt2,Anc_773_alt2,Anc_773_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1497_alt4_001.rechained.pdb,nsdb-004846,HH,87.37843065693431,Anc_1497_alt4,Anc_1497_alt4,Anc_1497_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_811_alt4_001.rechained.pdb,nsdb-004847,HH,90.17427561837455,Anc_811_alt4,Anc_811_alt4,Anc_811_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_813_alt4_001.rechained.pdb,nsdb-004848,HH,89.08172727272726,Anc_813_alt4,Anc_813_alt4,Anc_813_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_821_alt3_001.rechained.pdb,nsdb-004849,HH,90.24254578754581,Anc_821_alt3,Anc_821_alt3,Anc_821_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_785_alt5_001.rechained.pdb,nsdb-004850,HH,89.59763636363635,Anc_785_alt5,Anc_785_alt5,Anc_785_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_782_alt5_001.rechained.pdb,nsdb-004851,HH,89.5040181818182,Anc_782_alt5,Anc_782_alt5,Anc_782_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1472_alt3_001.rechained.pdb,nsdb-004852,HH,87.99745421245422,Anc_1472_alt3,Anc_1472_alt3,Anc_1472_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_792_alt3_001.rechained.pdb,nsdb-004853,HH,90.7941090909091,Anc_792_alt3,Anc_792_alt3,Anc_792_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1473_alt5_001.rechained.pdb,nsdb-004854,HH,87.91912087912087,Anc_1473_alt5,Anc_1473_alt5,Anc_1473_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1482_alt4_001.rechained.pdb,nsdb-004855,HH,88.09893772893774,Anc_1482_alt4,Anc_1482_alt4,Anc_1482_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1475_alt2_001.rechained.pdb,nsdb-004856,HH,87.40190476190476,Anc_1475_alt2,Anc_1475_alt2,Anc_1475_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_794_alt4_001.rechained.pdb,nsdb-004857,HH,87.42009157509158,Anc_794_alt4,Anc_794_alt4,Anc_794_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_812_alt5_001.rechained.pdb,nsdb-004858,HH,90.9718661971831,Anc_812_alt5,Anc_812_alt5,Anc_812_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_810_alt3_001.rechained.pdb,nsdb-004859,HH,90.68792727272728,Anc_810_alt3,Anc_810_alt3,Anc_810_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1471_alt3_001.rechained.pdb,nsdb-004860,HH,88.96208791208792,Anc_1471_alt3,Anc_1471_alt3,Anc_1471_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_787_alt3_001.rechained.pdb,nsdb-004861,HH,90.65774545454546,Anc_787_alt3,Anc_787_alt3,Anc_787_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_814_alt4_001.rechained.pdb,nsdb-004862,HH,89.98832116788321,Anc_814_alt4,Anc_814_alt4,Anc_814_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1458_alt2_001.rechained.pdb,nsdb-004863,HH,87.80520146520146,Anc_1458_alt2,Anc_1458_alt2,Anc_1458_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1477_alt4_001.rechained.pdb,nsdb-004864,HH,87.31009191176472,Anc_1477_alt4,Anc_1477_alt4,Anc_1477_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_820_alt3_001.rechained.pdb,nsdb-004865,HH,90.14284671532846,Anc_820_alt3,Anc_820_alt3,Anc_820_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_799_alt2_001.rechained.pdb,nsdb-004866,HH,88.00120274914089,Anc_799_alt2,Anc_799_alt2,Anc_799_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1485_alt2_001.rechained.pdb,nsdb-004867,HH,87.50886446886446,Anc_1485_alt2,Anc_1485_alt2,Anc_1485_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_776_alt5_001.rechained.pdb,nsdb-004868,HH,89.61974545454545,Anc_776_alt5,Anc_776_alt5,Anc_776_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1500_alt5_001.rechained.pdb,nsdb-004869,HH,86.96434545454545,Anc_1500_alt5,Anc_1500_alt5,Anc_1500_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1533_alt3_001.rechained.pdb,nsdb-004870,HH,92.05384615384614,Anc_1533_alt3,Anc_1533_alt3,Anc_1533_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_778_alt4_001.rechained.pdb,nsdb-004871,HH,90.21898181818182,Anc_778_alt4,Anc_778_alt4,Anc_778_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1487_alt3_001.rechained.pdb,nsdb-004872,HH,87.75908424908427,Anc_1487_alt3,Anc_1487_alt3,Anc_1487_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1503_alt5_001.rechained.pdb,nsdb-004873,HH,88.02532846715329,Anc_1503_alt5,Anc_1503_alt5,Anc_1503_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1512_alt2_001.rechained.pdb,nsdb-004874,HH,88.00948717948718,Anc_1512_alt2,Anc_1512_alt2,Anc_1512_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1537_alt5_001.rechained.pdb,nsdb-004875,HH,89.83483516483517,Anc_1537_alt5,Anc_1537_alt5,Anc_1537_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1485_alt4_001.rechained.pdb,nsdb-004876,HH,87.64307692307692,Anc_1485_alt4,Anc_1485_alt4,Anc_1485_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1490_alt4_001.rechained.pdb,nsdb-004877,HH,87.93056985294118,Anc_1490_alt4,Anc_1490_alt4,Anc_1490_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_778_alt5_001.rechained.pdb,nsdb-004878,HH,90.33950909090909,Anc_778_alt5,Anc_778_alt5,Anc_778_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1527_alt5_001.rechained.pdb,nsdb-004879,HH,89.25403284671533,Anc_1527_alt5,Anc_1527_alt5,Anc_1527_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_798_alt3_001.rechained.pdb,nsdb-004880,HH,89.48900343642612,Anc_798_alt3,Anc_798_alt3,Anc_798_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1498_alt5_001.rechained.pdb,nsdb-004881,HH,88.405,Anc_1498_alt5,Anc_1498_alt5,Anc_1498_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1464_alt3_001.rechained.pdb,nsdb-004882,HH,87.84327838827839,Anc_1464_alt3,Anc_1464_alt3,Anc_1464_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1533_alt4_001.rechained.pdb,nsdb-004883,HH,90.2457326007326,Anc_1533_alt4,Anc_1533_alt4,Anc_1533_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1474_alt2_001.rechained.pdb,nsdb-004884,HH,87.76423076923078,Anc_1474_alt2,Anc_1474_alt2,Anc_1474_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_778_alt2_001.rechained.pdb,nsdb-004885,HH,90.4081090909091,Anc_778_alt2,Anc_778_alt2,Anc_778_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1459_alt2_001.rechained.pdb,nsdb-004886,HH,87.72122710622709,Anc_1459_alt2,Anc_1459_alt2,Anc_1459_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_803_alt3_001.rechained.pdb,nsdb-004887,HH,90.91954545454546,Anc_803_alt3,Anc_803_alt3,Anc_803_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1500_alt3_001.rechained.pdb,nsdb-004888,HH,86.96434545454545,Anc_1500_alt3,Anc_1500_alt3,Anc_1500_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1522_alt2_001.rechained.pdb,nsdb-004889,HH,87.60611721611723,Anc_1522_alt2,Anc_1522_alt2,Anc_1522_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1529_alt2_001.rechained.pdb,nsdb-004890,HH,90.78338827838829,Anc_1529_alt2,Anc_1529_alt2,Anc_1529_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1462_alt3_001.rechained.pdb,nsdb-004891,HH,87.87197802197802,Anc_1462_alt3,Anc_1462_alt3,Anc_1462_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1513_alt3_001.rechained.pdb,nsdb-004892,HH,88.30387867647059,Anc_1513_alt3,Anc_1513_alt3,Anc_1513_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1491_alt4_001.rechained.pdb,nsdb-004893,HH,88.3996875,Anc_1491_alt4,Anc_1491_alt4,Anc_1491_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_803_alt2_001.rechained.pdb,nsdb-004894,HH,90.98241818181819,Anc_803_alt2,Anc_803_alt2,Anc_803_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1517_alt4_001.rechained.pdb,nsdb-004895,HH,88.90191176470589,Anc_1517_alt4,Anc_1517_alt4,Anc_1517_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1494_alt2_001.rechained.pdb,nsdb-004896,HH,88.2070879120879,Anc_1494_alt2,Anc_1494_alt2,Anc_1494_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1473_alt2_001.rechained.pdb,nsdb-004897,HH,87.88265567765566,Anc_1473_alt2,Anc_1473_alt2,Anc_1473_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1537_alt3_001.rechained.pdb,nsdb-004898,HH,89.77573260073261,Anc_1537_alt3,Anc_1537_alt3,Anc_1537_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1512_alt3_001.rechained.pdb,nsdb-004899,HH,88.00948717948718,Anc_1512_alt3,Anc_1512_alt3,Anc_1512_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1474_alt4_001.rechained.pdb,nsdb-004900,HH,87.94941391941391,Anc_1474_alt4,Anc_1474_alt4,Anc_1474_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_796_alt5_001.rechained.pdb,nsdb-004901,HH,89.20804794520548,Anc_796_alt5,Anc_796_alt5,Anc_796_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1527_alt4_001.rechained.pdb,nsdb-004902,HH,88.99239051094891,Anc_1527_alt4,Anc_1527_alt4,Anc_1527_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1529_alt3_001.rechained.pdb,nsdb-004903,HH,91.71371794871796,Anc_1529_alt3,Anc_1529_alt3,Anc_1529_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1533_alt5_001.rechained.pdb,nsdb-004904,HH,91.05626373626374,Anc_1533_alt5,Anc_1533_alt5,Anc_1533_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1484_alt2_001.rechained.pdb,nsdb-004905,HH,87.38684981684982,Anc_1484_alt2,Anc_1484_alt2,Anc_1484_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1473_alt3_001.rechained.pdb,nsdb-004906,HH,87.94796703296703,Anc_1473_alt3,Anc_1473_alt3,Anc_1473_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_792_alt2_001.rechained.pdb,nsdb-004907,HH,90.74376363636365,Anc_792_alt2,Anc_792_alt2,Anc_792_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_784_alt3_001.rechained.pdb,nsdb-004908,HH,89.93127272727273,Anc_784_alt3,Anc_784_alt3,Anc_784_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1502_alt5_001.rechained.pdb,nsdb-004909,HH,87.46649635036496,Anc_1502_alt5,Anc_1502_alt5,Anc_1502_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1501_alt3_001.rechained.pdb,nsdb-004910,HH,87.5171978021978,Anc_1501_alt3,Anc_1501_alt3,Anc_1501_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_777_alt5_001.rechained.pdb,nsdb-004911,HH,89.67589090909092,Anc_777_alt5,Anc_777_alt5,Anc_777_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_784_alt5_001.rechained.pdb,nsdb-004912,HH,90.34814545454545,Anc_784_alt5,Anc_784_alt5,Anc_784_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1511_alt3_001.rechained.pdb,nsdb-004913,HH,88.65619047619047,Anc_1511_alt3,Anc_1511_alt3,Anc_1511_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1468_alt3_001.rechained.pdb,nsdb-004914,HH,88.09310661764705,Anc_1468_alt3,Anc_1468_alt3,Anc_1468_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1515_alt2_001.rechained.pdb,nsdb-004915,HH,88.55056985294117,Anc_1515_alt2,Anc_1515_alt2,Anc_1515_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_794_alt5_001.rechained.pdb,nsdb-004916,HH,88.15619047619047,Anc_794_alt5,Anc_794_alt5,Anc_794_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1518_alt5_001.rechained.pdb,nsdb-004917,HH,88.01272893772894,Anc_1518_alt5,Anc_1518_alt5,Anc_1518_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_793_alt5_001.rechained.pdb,nsdb-004918,HH,90.49838181818181,Anc_793_alt5,Anc_793_alt5,Anc_793_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1471_alt2_001.rechained.pdb,nsdb-004919,HH,88.38234432234431,Anc_1471_alt2,Anc_1471_alt2,Anc_1471_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1487_alt2_001.rechained.pdb,nsdb-004920,HH,87.50809523809524,Anc_1487_alt2,Anc_1487_alt2,Anc_1487_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_807_alt5_001.rechained.pdb,nsdb-004921,HH,89.61109090909092,Anc_807_alt5,Anc_807_alt5,Anc_807_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1486_alt3_001.rechained.pdb,nsdb-004922,HH,88.27432234432234,Anc_1486_alt3,Anc_1486_alt3,Anc_1486_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_819_alt2_001.rechained.pdb,nsdb-004923,HH,87.44900000000001,Anc_819_alt2,Anc_819_alt2,Anc_819_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_779_alt2_001.rechained.pdb,nsdb-004924,HH,90.11498181818183,Anc_779_alt2,Anc_779_alt2,Anc_779_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1506_alt3_001.rechained.pdb,nsdb-004925,HH,87.59875457875458,Anc_1506_alt3,Anc_1506_alt3,Anc_1506_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1478_alt2_001.rechained.pdb,nsdb-004926,HH,87.84292279411765,Anc_1478_alt2,Anc_1478_alt2,Anc_1478_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1506_alt5_001.rechained.pdb,nsdb-004927,HH,88.10210622710623,Anc_1506_alt5,Anc_1506_alt5,Anc_1506_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1469_alt3_001.rechained.pdb,nsdb-004928,HH,88.42782051282052,Anc_1469_alt3,Anc_1469_alt3,Anc_1469_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1512_alt4_001.rechained.pdb,nsdb-004929,HH,88.5251098901099,Anc_1512_alt4,Anc_1512_alt4,Anc_1512_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1515_alt4_001.rechained.pdb,nsdb-004930,HH,88.74358455882351,Anc_1515_alt4,Anc_1515_alt4,Anc_1515_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1538_alt4_001.rechained.pdb,nsdb-004931,HH,90.45589090909093,Anc_1538_alt4,Anc_1538_alt4,Anc_1538_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_782_alt3_001.rechained.pdb,nsdb-004932,HH,89.62652727272727,Anc_782_alt3,Anc_782_alt3,Anc_782_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1492_alt5_001.rechained.pdb,nsdb-004933,HH,88.34132352941175,Anc_1492_alt5,Anc_1492_alt5,Anc_1492_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1492_alt2_001.rechained.pdb,nsdb-004934,HH,88.44922794117646,Anc_1492_alt2,Anc_1492_alt2,Anc_1492_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_783_alt2_001.rechained.pdb,nsdb-004935,HH,89.46839999999999,Anc_783_alt2,Anc_783_alt2,Anc_783_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1478_alt5_001.rechained.pdb,nsdb-004936,HH,87.83845588235295,Anc_1478_alt5,Anc_1478_alt5,Anc_1478_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_781_alt5_001.rechained.pdb,nsdb-004937,HH,90.10709090909091,Anc_781_alt5,Anc_781_alt5,Anc_781_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_773_alt4_001.rechained.pdb,nsdb-004938,HH,89.33649090909091,Anc_773_alt4,Anc_773_alt4,Anc_773_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1538_alt2_001.rechained.pdb,nsdb-004939,HH,90.38143636363637,Anc_1538_alt2,Anc_1538_alt2,Anc_1538_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1524_alt2_001.rechained.pdb,nsdb-004940,HH,87.55327205882354,Anc_1524_alt2,Anc_1524_alt2,Anc_1524_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1537_alt2_001.rechained.pdb,nsdb-004941,HH,89.75446886446886,Anc_1537_alt2,Anc_1537_alt2,Anc_1537_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1477_alt5_001.rechained.pdb,nsdb-004942,HH,87.31711397058824,Anc_1477_alt5,Anc_1477_alt5,Anc_1477_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_773_alt3_001.rechained.pdb,nsdb-004943,HH,89.58583636363636,Anc_773_alt3,Anc_773_alt3,Anc_773_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1459_alt5_001.rechained.pdb,nsdb-004944,HH,87.63710622710623,Anc_1459_alt5,Anc_1459_alt5,Anc_1459_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_782_alt2_001.rechained.pdb,nsdb-004945,HH,89.72481818181818,Anc_782_alt2,Anc_782_alt2,Anc_782_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_811_alt2_001.rechained.pdb,nsdb-004946,HH,89.8955300353357,Anc_811_alt2,Anc_811_alt2,Anc_811_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_788_alt3_001.rechained.pdb,nsdb-004947,HH,90.0776,Anc_788_alt3,Anc_788_alt3,Anc_788_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_798_alt5_001.rechained.pdb,nsdb-004948,HH,89.68341924398625,Anc_798_alt5,Anc_798_alt5,Anc_798_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_787_alt2_001.rechained.pdb,nsdb-004949,HH,90.70620000000001,Anc_787_alt2,Anc_787_alt2,Anc_787_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_774_alt2_001.rechained.pdb,nsdb-004950,HH,89.44449090909092,Anc_774_alt2,Anc_774_alt2,Anc_774_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_778_alt3_001.rechained.pdb,nsdb-004951,HH,90.31329090909091,Anc_778_alt3,Anc_778_alt3,Anc_778_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_775_alt2_001.rechained.pdb,nsdb-004952,HH,89.66065454545455,Anc_775_alt2,Anc_775_alt2,Anc_775_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1513_alt4_001.rechained.pdb,nsdb-004953,HH,88.47797794117648,Anc_1513_alt4,Anc_1513_alt4,Anc_1513_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1479_alt3_001.rechained.pdb,nsdb-004954,HH,87.59617647058825,Anc_1479_alt3,Anc_1479_alt3,Anc_1479_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1493_alt4_001.rechained.pdb,nsdb-004955,HH,88.47141544117646,Anc_1493_alt4,Anc_1493_alt4,Anc_1493_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1488_alt2_001.rechained.pdb,nsdb-004956,HH,88.04435897435897,Anc_1488_alt2,Anc_1488_alt2,Anc_1488_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1511_alt5_001.rechained.pdb,nsdb-004957,HH,88.85210622710623,Anc_1511_alt5,Anc_1511_alt5,Anc_1511_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1529_alt5_001.rechained.pdb,nsdb-004958,HH,91.84972527472527,Anc_1529_alt5,Anc_1529_alt5,Anc_1529_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1494_alt5_001.rechained.pdb,nsdb-004959,HH,87.82040293040293,Anc_1494_alt5,Anc_1494_alt5,Anc_1494_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1482_alt2_001.rechained.pdb,nsdb-004960,HH,87.98113553113552,Anc_1482_alt2,Anc_1482_alt2,Anc_1482_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_808_alt4_001.rechained.pdb,nsdb-004961,HH,90.1193090909091,Anc_808_alt4,Anc_808_alt4,Anc_808_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1508_alt2_001.rechained.pdb,nsdb-004962,HH,87.07038181818181,Anc_1508_alt2,Anc_1508_alt2,Anc_1508_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1483_alt4_001.rechained.pdb,nsdb-004963,HH,87.39306569343066,Anc_1483_alt4,Anc_1483_alt4,Anc_1483_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1468_alt2_001.rechained.pdb,nsdb-004964,HH,88.0390992647059,Anc_1468_alt2,Anc_1468_alt2,Anc_1468_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1480_alt3_001.rechained.pdb,nsdb-004965,HH,87.5048161764706,Anc_1480_alt3,Anc_1480_alt3,Anc_1480_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_813_alt5_001.rechained.pdb,nsdb-004966,HH,89.45836363636363,Anc_813_alt5,Anc_813_alt5,Anc_813_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1538_alt5_001.rechained.pdb,nsdb-004967,HH,90.70147272727273,Anc_1538_alt5,Anc_1538_alt5,Anc_1538_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_804_alt4_001.rechained.pdb,nsdb-004968,HH,88.59636363636363,Anc_804_alt4,Anc_804_alt4,Anc_804_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_807_alt2_001.rechained.pdb,nsdb-004969,HH,89.59294545454546,Anc_807_alt2,Anc_807_alt2,Anc_807_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1466_alt4_001.rechained.pdb,nsdb-004970,HH,88.0703663003663,Anc_1466_alt4,Anc_1466_alt4,Anc_1466_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_821_alt5_001.rechained.pdb,nsdb-004971,HH,89.33016483516484,Anc_821_alt5,Anc_821_alt5,Anc_821_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1470_alt2_001.rechained.pdb,nsdb-004972,HH,88.25296703296702,Anc_1470_alt2,Anc_1470_alt2,Anc_1470_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1474_alt3_001.rechained.pdb,nsdb-004973,HH,87.87485347985347,Anc_1474_alt3,Anc_1474_alt3,Anc_1474_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_785_alt4_001.rechained.pdb,nsdb-004974,HH,89.98474545454546,Anc_785_alt4,Anc_785_alt4,Anc_785_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1493_alt5_001.rechained.pdb,nsdb-004975,HH,87.12238970588236,Anc_1493_alt5,Anc_1493_alt5,Anc_1493_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1525_alt3_001.rechained.pdb,nsdb-004976,HH,90.50631386861313,Anc_1525_alt3,Anc_1525_alt3,Anc_1525_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_814_alt3_001.rechained.pdb,nsdb-004977,HH,89.55510948905109,Anc_814_alt3,Anc_814_alt3,Anc_814_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_809_alt3_001.rechained.pdb,nsdb-004978,HH,89.51740875912408,Anc_809_alt3,Anc_809_alt3,Anc_809_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_799_alt5_001.rechained.pdb,nsdb-004979,HH,87.96060137457046,Anc_799_alt5,Anc_799_alt5,Anc_799_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1519_alt5_001.rechained.pdb,nsdb-004980,HH,87.77338827838828,Anc_1519_alt5,Anc_1519_alt5,Anc_1519_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1483_alt3_001.rechained.pdb,nsdb-004981,HH,87.80293795620439,Anc_1483_alt3,Anc_1483_alt3,Anc_1483_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_790_alt5_001.rechained.pdb,nsdb-004982,HH,89.78132727272727,Anc_790_alt5,Anc_790_alt5,Anc_790_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1518_alt3_001.rechained.pdb,nsdb-004983,HH,88.00478021978022,Anc_1518_alt3,Anc_1518_alt3,Anc_1518_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1489_alt4_001.rechained.pdb,nsdb-004984,HH,87.75791208791209,Anc_1489_alt4,Anc_1489_alt4,Anc_1489_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_813_alt3_001.rechained.pdb,nsdb-004985,HH,89.50014545454546,Anc_813_alt3,Anc_813_alt3,Anc_813_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1485_alt5_001.rechained.pdb,nsdb-004986,HH,87.4982967032967,Anc_1485_alt5,Anc_1485_alt5,Anc_1485_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_809_alt5_001.rechained.pdb,nsdb-004987,HH,89.24067518248175,Anc_809_alt5,Anc_809_alt5,Anc_809_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1480_alt2_001.rechained.pdb,nsdb-004988,HH,87.4886213235294,Anc_1480_alt2,Anc_1480_alt2,Anc_1480_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_786_alt5_001.rechained.pdb,nsdb-004989,HH,92.01474545454546,Anc_786_alt5,Anc_786_alt5,Anc_786_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1498_alt4_001.rechained.pdb,nsdb-004990,HH,88.2661496350365,Anc_1498_alt4,Anc_1498_alt4,Anc_1498_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1519_alt4_001.rechained.pdb,nsdb-004991,HH,88.01899267399267,Anc_1519_alt4,Anc_1519_alt4,Anc_1519_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1522_alt5_001.rechained.pdb,nsdb-004992,HH,87.50498168498169,Anc_1522_alt5,Anc_1522_alt5,Anc_1522_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1465_alt5_001.rechained.pdb,nsdb-004993,HH,87.37109890109889,Anc_1465_alt5,Anc_1465_alt5,Anc_1465_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1507_alt4_001.rechained.pdb,nsdb-004994,HH,88.21794871794872,Anc_1507_alt4,Anc_1507_alt4,Anc_1507_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_816_alt4_001.rechained.pdb,nsdb-004995,HH,86.66790909090909,Anc_816_alt4,Anc_816_alt4,Anc_816_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1475_alt4_001.rechained.pdb,nsdb-004996,HH,87.96274725274725,Anc_1475_alt4,Anc_1475_alt4,Anc_1475_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1520_alt5_001.rechained.pdb,nsdb-004997,HH,87.41730909090909,Anc_1520_alt5,Anc_1520_alt5,Anc_1520_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_799_alt4_001.rechained.pdb,nsdb-004998,HH,87.95446735395188,Anc_799_alt4,Anc_799_alt4,Anc_799_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1464_alt4_001.rechained.pdb,nsdb-004999,HH,88.13309523809524,Anc_1464_alt4,Anc_1464_alt4,Anc_1464_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1504_alt3_001.rechained.pdb,nsdb-005000,HH,88.23652014652015,Anc_1504_alt3,Anc_1504_alt3,Anc_1504_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1533_alt2_001.rechained.pdb,nsdb-005001,HH,90.36943223443225,Anc_1533_alt2,Anc_1533_alt2,Anc_1533_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1516_alt5_001.rechained.pdb,nsdb-005002,HH,88.57150183150183,Anc_1516_alt5,Anc_1516_alt5,Anc_1516_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_801_alt2_001.rechained.pdb,nsdb-005003,HH,89.1233676975945,Anc_801_alt2,Anc_801_alt2,Anc_801_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1460_alt5_001.rechained.pdb,nsdb-005004,HH,87.98423076923076,Anc_1460_alt5,Anc_1460_alt5,Anc_1460_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1519_alt3_001.rechained.pdb,nsdb-005005,HH,87.75399267399267,Anc_1519_alt3,Anc_1519_alt3,Anc_1519_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1524_alt3_001.rechained.pdb,nsdb-005006,HH,87.83542279411765,Anc_1524_alt3,Anc_1524_alt3,Anc_1524_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_785_alt3_001.rechained.pdb,nsdb-005007,HH,89.71074545454545,Anc_785_alt3,Anc_785_alt3,Anc_785_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_772_alt2_001.rechained.pdb,nsdb-005008,HH,90.11152727272727,Anc_772_alt2,Anc_772_alt2,Anc_772_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1532_alt2_001.rechained.pdb,nsdb-005009,HH,91.09445054945054,Anc_1532_alt2,Anc_1532_alt2,Anc_1532_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1477_alt2_001.rechained.pdb,nsdb-005010,HH,87.34297794117647,Anc_1477_alt2,Anc_1477_alt2,Anc_1477_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1481_alt5_001.rechained.pdb,nsdb-005011,HH,88.43625,Anc_1481_alt5,Anc_1481_alt5,Anc_1481_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_797_alt2_001.rechained.pdb,nsdb-005012,HH,88.62055172413793,Anc_797_alt2,Anc_797_alt2,Anc_797_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_775_alt3_001.rechained.pdb,nsdb-005013,HH,89.66370909090908,Anc_775_alt3,Anc_775_alt3,Anc_775_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_780_alt5_001.rechained.pdb,nsdb-005014,HH,89.92363636363636,Anc_780_alt5,Anc_780_alt5,Anc_780_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_815_alt4_001.rechained.pdb,nsdb-005015,HH,89.112700729927,Anc_815_alt4,Anc_815_alt4,Anc_815_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1458_alt4_001.rechained.pdb,nsdb-005016,HH,88.94153846153847,Anc_1458_alt4,Anc_1458_alt4,Anc_1458_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1524_alt5_001.rechained.pdb,nsdb-005017,HH,87.72454044117647,Anc_1524_alt5,Anc_1524_alt5,Anc_1524_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1528_alt3_001.rechained.pdb,nsdb-005018,HH,88.69611313868613,Anc_1528_alt3,Anc_1528_alt3,Anc_1528_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1525_alt4_001.rechained.pdb,nsdb-005019,HH,90.61016423357665,Anc_1525_alt4,Anc_1525_alt4,Anc_1525_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1456_alt4_001.rechained.pdb,nsdb-005020,HH,87.67602564102565,Anc_1456_alt4,Anc_1456_alt4,Anc_1456_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1472_alt2_001.rechained.pdb,nsdb-005021,HH,87.58540293040294,Anc_1472_alt2,Anc_1472_alt2,Anc_1472_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_795_alt4_001.rechained.pdb,nsdb-005022,HH,87.87263698630136,Anc_795_alt4,Anc_795_alt4,Anc_795_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_788_alt2_001.rechained.pdb,nsdb-005023,HH,90.19972727272729,Anc_788_alt2,Anc_788_alt2,Anc_788_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_796_alt3_001.rechained.pdb,nsdb-005024,HH,88.39178082191782,Anc_796_alt3,Anc_796_alt3,Anc_796_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1457_alt5_001.rechained.pdb,nsdb-005025,HH,89.05173992673993,Anc_1457_alt5,Anc_1457_alt5,Anc_1457_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1481_alt4_001.rechained.pdb,nsdb-005026,HH,87.75911764705882,Anc_1481_alt4,Anc_1481_alt4,Anc_1481_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1535_alt2_001.rechained.pdb,nsdb-005027,HH,89.71723443223443,Anc_1535_alt2,Anc_1535_alt2,Anc_1535_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_785_alt2_001.rechained.pdb,nsdb-005028,HH,90.14416363636364,Anc_785_alt2,Anc_785_alt2,Anc_785_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_800_alt2_001.rechained.pdb,nsdb-005029,HH,89.53398625429553,Anc_800_alt2,Anc_800_alt2,Anc_800_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_806_alt4_001.rechained.pdb,nsdb-005030,HH,89.70223636363636,Anc_806_alt4,Anc_806_alt4,Anc_806_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1529_alt4_001.rechained.pdb,nsdb-005031,HH,90.56093406593408,Anc_1529_alt4,Anc_1529_alt4,Anc_1529_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1484_alt5_001.rechained.pdb,nsdb-005032,HH,88.12750915750915,Anc_1484_alt5,Anc_1484_alt5,Anc_1484_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1530_alt5_001.rechained.pdb,nsdb-005033,HH,90.64120879120878,Anc_1530_alt5,Anc_1530_alt5,Anc_1530_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1471_alt5_001.rechained.pdb,nsdb-005034,HH,88.81040293040293,Anc_1471_alt5,Anc_1471_alt5,Anc_1471_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_791_alt5_001.rechained.pdb,nsdb-005035,HH,90.26594545454546,Anc_791_alt5,Anc_791_alt5,Anc_791_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1530_alt2_001.rechained.pdb,nsdb-005036,HH,90.66763736263736,Anc_1530_alt2,Anc_1530_alt2,Anc_1530_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_808_alt5_001.rechained.pdb,nsdb-005037,HH,90.04763636363636,Anc_808_alt5,Anc_808_alt5,Anc_808_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1484_alt4_001.rechained.pdb,nsdb-005038,HH,87.76020146520148,Anc_1484_alt4,Anc_1484_alt4,Anc_1484_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_816_alt3_001.rechained.pdb,nsdb-005039,HH,86.83436363636363,Anc_816_alt3,Anc_816_alt3,Anc_816_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1523_alt4_001.rechained.pdb,nsdb-005040,HH,89.09685661764706,Anc_1523_alt4,Anc_1523_alt4,Anc_1523_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_786_alt3_001.rechained.pdb,nsdb-005041,HH,91.81905454545453,Anc_786_alt3,Anc_786_alt3,Anc_786_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_797_alt5_001.rechained.pdb,nsdb-005042,HH,88.58544827586206,Anc_797_alt5,Anc_797_alt5,Anc_797_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1535_alt3_001.rechained.pdb,nsdb-005043,HH,89.82738095238095,Anc_1535_alt3,Anc_1535_alt3,Anc_1535_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_794_alt3_001.rechained.pdb,nsdb-005044,HH,87.77168498168498,Anc_794_alt3,Anc_794_alt3,Anc_794_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1483_alt5_001.rechained.pdb,nsdb-005045,HH,87.77266423357663,Anc_1483_alt5,Anc_1483_alt5,Anc_1483_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_774_alt4_001.rechained.pdb,nsdb-005046,HH,89.55203636363638,Anc_774_alt4,Anc_774_alt4,Anc_774_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1489_alt5_001.rechained.pdb,nsdb-005047,HH,89.05935897435897,Anc_1489_alt5,Anc_1489_alt5,Anc_1489_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_794_alt2_001.rechained.pdb,nsdb-005048,HH,87.32844322344323,Anc_794_alt2,Anc_794_alt2,Anc_794_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1516_alt4_001.rechained.pdb,nsdb-005049,HH,87.88855311355312,Anc_1516_alt4,Anc_1516_alt4,Anc_1516_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1463_alt5_001.rechained.pdb,nsdb-005050,HH,87.8443956043956,Anc_1463_alt5,Anc_1463_alt5,Anc_1463_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_812_alt4_001.rechained.pdb,nsdb-005051,HH,91.07517605633804,Anc_812_alt4,Anc_812_alt4,Anc_812_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_786_alt2_001.rechained.pdb,nsdb-005052,HH,92.00590909090909,Anc_786_alt2,Anc_786_alt2,Anc_786_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1464_alt5_001.rechained.pdb,nsdb-005053,HH,88.13309523809524,Anc_1464_alt5,Anc_1464_alt5,Anc_1464_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_808_alt3_001.rechained.pdb,nsdb-005054,HH,90.02307272727273,Anc_808_alt3,Anc_808_alt3,Anc_808_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1500_alt2_001.rechained.pdb,nsdb-005055,HH,86.93505454545455,Anc_1500_alt2,Anc_1500_alt2,Anc_1500_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1513_alt2_001.rechained.pdb,nsdb-005056,HH,88.46512867647058,Anc_1513_alt2,Anc_1513_alt2,Anc_1513_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_796_alt4_001.rechained.pdb,nsdb-005057,HH,89.13979452054794,Anc_796_alt4,Anc_796_alt4,Anc_796_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1520_alt2_001.rechained.pdb,nsdb-005058,HH,87.25781818181818,Anc_1520_alt2,Anc_1520_alt2,Anc_1520_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1518_alt4_001.rechained.pdb,nsdb-005059,HH,88.42309523809524,Anc_1518_alt4,Anc_1518_alt4,Anc_1518_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1476_alt3_001.rechained.pdb,nsdb-005060,HH,87.95757352941176,Anc_1476_alt3,Anc_1476_alt3,Anc_1476_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_820_alt5_001.rechained.pdb,nsdb-005061,HH,88.28116788321168,Anc_820_alt5,Anc_820_alt5,Anc_820_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_775_alt4_001.rechained.pdb,nsdb-005062,HH,89.60125454545455,Anc_775_alt4,Anc_775_alt4,Anc_775_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_812_alt2_001.rechained.pdb,nsdb-005063,HH,90.69410211267606,Anc_812_alt2,Anc_812_alt2,Anc_812_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_783_alt5_001.rechained.pdb,nsdb-005064,HH,89.46839999999999,Anc_783_alt5,Anc_783_alt5,Anc_783_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_792_alt4_001.rechained.pdb,nsdb-005065,HH,90.7882181818182,Anc_792_alt4,Anc_792_alt4,Anc_792_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1499_alt4_001.rechained.pdb,nsdb-005066,HH,88.16605839416059,Anc_1499_alt4,Anc_1499_alt4,Anc_1499_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1528_alt4_001.rechained.pdb,nsdb-005067,HH,88.69611313868613,Anc_1528_alt4,Anc_1528_alt4,Anc_1528_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1519_alt2_001.rechained.pdb,nsdb-005068,HH,87.78216117216117,Anc_1519_alt2,Anc_1519_alt2,Anc_1519_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_806_alt5_001.rechained.pdb,nsdb-005069,HH,89.56067272727272,Anc_806_alt5,Anc_806_alt5,Anc_806_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1492_alt4_001.rechained.pdb,nsdb-005070,HH,88.52194852941177,Anc_1492_alt4,Anc_1492_alt4,Anc_1492_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1493_alt3_001.rechained.pdb,nsdb-005071,HH,87.14073529411765,Anc_1493_alt3,Anc_1493_alt3,Anc_1493_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_803_alt5_001.rechained.pdb,nsdb-005072,HH,90.48100000000001,Anc_803_alt5,Anc_803_alt5,Anc_803_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1476_alt2_001.rechained.pdb,nsdb-005073,HH,87.79060661764706,Anc_1476_alt2,Anc_1476_alt2,Anc_1476_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1457_alt3_001.rechained.pdb,nsdb-005074,HH,88.45670329670328,Anc_1457_alt3,Anc_1457_alt3,Anc_1457_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_789_alt2_001.rechained.pdb,nsdb-005075,HH,90.07816363636364,Anc_789_alt2,Anc_789_alt2,Anc_789_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_820_alt4_001.rechained.pdb,nsdb-005076,HH,88.51711678832118,Anc_820_alt4,Anc_820_alt4,Anc_820_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1503_alt3_001.rechained.pdb,nsdb-005077,HH,87.64864963503648,Anc_1503_alt3,Anc_1503_alt3,Anc_1503_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_793_alt3_001.rechained.pdb,nsdb-005078,HH,90.53836363636363,Anc_793_alt3,Anc_793_alt3,Anc_793_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1526_alt4_001.rechained.pdb,nsdb-005079,HH,90.16501831501833,Anc_1526_alt4,Anc_1526_alt4,Anc_1526_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1475_alt3_001.rechained.pdb,nsdb-005080,HH,87.64333333333332,Anc_1475_alt3,Anc_1475_alt3,Anc_1475_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_810_alt4_001.rechained.pdb,nsdb-005081,HH,90.47012727272727,Anc_810_alt4,Anc_810_alt4,Anc_810_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_809_alt4_001.rechained.pdb,nsdb-005082,HH,89.33821167883211,Anc_809_alt4,Anc_809_alt4,Anc_809_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_799_alt3_001.rechained.pdb,nsdb-005083,HH,88.33493127147766,Anc_799_alt3,Anc_799_alt3,Anc_799_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1461_alt4_001.rechained.pdb,nsdb-005084,HH,87.30631868131869,Anc_1461_alt4,Anc_1461_alt4,Anc_1461_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_789_alt5_001.rechained.pdb,nsdb-005085,HH,89.47734545454544,Anc_789_alt5,Anc_789_alt5,Anc_789_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1505_alt3_001.rechained.pdb,nsdb-005086,HH,87.35040293040294,Anc_1505_alt3,Anc_1505_alt3,Anc_1505_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1521_alt2_001.rechained.pdb,nsdb-005087,HH,87.44505494505495,Anc_1521_alt2,Anc_1521_alt2,Anc_1521_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_812_alt3_001.rechained.pdb,nsdb-005088,HH,90.9718661971831,Anc_812_alt3,Anc_812_alt3,Anc_812_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1458_alt3_001.rechained.pdb,nsdb-005089,HH,87.83809523809525,Anc_1458_alt3,Anc_1458_alt3,Anc_1458_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1469_alt4_001.rechained.pdb,nsdb-005090,HH,87.7443956043956,Anc_1469_alt4,Anc_1469_alt4,Anc_1469_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1500_alt4_001.rechained.pdb,nsdb-005091,HH,86.79452727272728,Anc_1500_alt4,Anc_1500_alt4,Anc_1500_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_800_alt4_001.rechained.pdb,nsdb-005092,HH,89.54774914089346,Anc_800_alt4,Anc_800_alt4,Anc_800_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1457_alt2_001.rechained.pdb,nsdb-005093,HH,88.54042124542124,Anc_1457_alt2,Anc_1457_alt2,Anc_1457_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1523_alt3_001.rechained.pdb,nsdb-005094,HH,89.03312500000001,Anc_1523_alt3,Anc_1523_alt3,Anc_1523_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_815_alt5_001.rechained.pdb,nsdb-005095,HH,90.16927007299272,Anc_815_alt5,Anc_815_alt5,Anc_815_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_779_alt4_001.rechained.pdb,nsdb-005096,HH,90.1570909090909,Anc_779_alt4,Anc_779_alt4,Anc_779_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_797_alt4_001.rechained.pdb,nsdb-005097,HH,88.77593103448277,Anc_797_alt4,Anc_797_alt4,Anc_797_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1530_alt4_001.rechained.pdb,nsdb-005098,HH,90.65639194139195,Anc_1530_alt4,Anc_1530_alt4,Anc_1530_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1479_alt4_001.rechained.pdb,nsdb-005099,HH,87.90455882352941,Anc_1479_alt4,Anc_1479_alt4,Anc_1479_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1486_alt2_001.rechained.pdb,nsdb-005100,HH,87.90058608058608,Anc_1486_alt2,Anc_1486_alt2,Anc_1486_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1534_alt2_001.rechained.pdb,nsdb-005101,HH,91.4084249084249,Anc_1534_alt2,Anc_1534_alt2,Anc_1534_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1526_alt3_001.rechained.pdb,nsdb-005102,HH,90.26007326007326,Anc_1526_alt3,Anc_1526_alt3,Anc_1526_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1525_alt2_001.rechained.pdb,nsdb-005103,HH,90.64536496350365,Anc_1525_alt2,Anc_1525_alt2,Anc_1525_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1462_alt5_001.rechained.pdb,nsdb-005104,HH,87.66547619047618,Anc_1462_alt5,Anc_1462_alt5,Anc_1462_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1462_alt2_001.rechained.pdb,nsdb-005105,HH,87.79847985347986,Anc_1462_alt2,Anc_1462_alt2,Anc_1462_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_814_alt5_001.rechained.pdb,nsdb-005106,HH,89.4718795620438,Anc_814_alt5,Anc_814_alt5,Anc_814_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_776_alt2_001.rechained.pdb,nsdb-005107,HH,89.67316363636364,Anc_776_alt2,Anc_776_alt2,Anc_776_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1461_alt3_001.rechained.pdb,nsdb-005108,HH,87.55686813186814,Anc_1461_alt3,Anc_1461_alt3,Anc_1461_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1496_alt2_001.rechained.pdb,nsdb-005109,HH,88.16521978021977,Anc_1496_alt2,Anc_1496_alt2,Anc_1496_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_797_alt3_001.rechained.pdb,nsdb-005110,HH,88.58010344827588,Anc_797_alt3,Anc_797_alt3,Anc_797_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1534_alt5_001.rechained.pdb,nsdb-005111,HH,91.0221978021978,Anc_1534_alt5,Anc_1534_alt5,Anc_1534_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1480_alt4_001.rechained.pdb,nsdb-005112,HH,87.64132352941176,Anc_1480_alt4,Anc_1480_alt4,Anc_1480_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1506_alt2_001.rechained.pdb,nsdb-005113,HH,87.79001831501832,Anc_1506_alt2,Anc_1506_alt2,Anc_1506_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1486_alt5_001.rechained.pdb,nsdb-005114,HH,88.3068315018315,Anc_1486_alt5,Anc_1486_alt5,Anc_1486_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1534_alt4_001.rechained.pdb,nsdb-005115,HH,91.14415750915752,Anc_1534_alt4,Anc_1534_alt4,Anc_1534_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1457_alt4_001.rechained.pdb,nsdb-005116,HH,88.87637362637362,Anc_1457_alt4,Anc_1457_alt4,Anc_1457_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1514_alt3_001.rechained.pdb,nsdb-005117,HH,88.55237132352941,Anc_1514_alt3,Anc_1514_alt3,Anc_1514_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1528_alt2_001.rechained.pdb,nsdb-005118,HH,88.69611313868613,Anc_1528_alt2,Anc_1528_alt2,Anc_1528_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_776_alt3_001.rechained.pdb,nsdb-005119,HH,89.4774,Anc_776_alt3,Anc_776_alt3,Anc_776_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1531_alt2_001.rechained.pdb,nsdb-005120,HH,91.32450549450549,Anc_1531_alt2,Anc_1531_alt2,Anc_1531_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1505_alt4_001.rechained.pdb,nsdb-005121,HH,87.51752747252746,Anc_1505_alt4,Anc_1505_alt4,Anc_1505_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1531_alt3_001.rechained.pdb,nsdb-005122,HH,91.29045787545788,Anc_1531_alt3,Anc_1531_alt3,Anc_1531_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1523_alt2_001.rechained.pdb,nsdb-005123,HH,88.82770220588236,Anc_1523_alt2,Anc_1523_alt2,Anc_1523_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_793_alt2_001.rechained.pdb,nsdb-005124,HH,90.76203636363635,Anc_793_alt2,Anc_793_alt2,Anc_793_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1467_alt3_001.rechained.pdb,nsdb-005125,HH,88.5990625,Anc_1467_alt3,Anc_1467_alt3,Anc_1467_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_781_alt4_001.rechained.pdb,nsdb-005126,HH,89.53778181818181,Anc_781_alt4,Anc_781_alt4,Anc_781_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_817_alt3_001.rechained.pdb,nsdb-005127,HH,89.06161818181818,Anc_817_alt3,Anc_817_alt3,Anc_817_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1491_alt5_001.rechained.pdb,nsdb-005128,HH,88.7048713235294,Anc_1491_alt5,Anc_1491_alt5,Anc_1491_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_795_alt3_001.rechained.pdb,nsdb-005129,HH,87.35393835616439,Anc_795_alt3,Anc_795_alt3,Anc_795_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1469_alt5_001.rechained.pdb,nsdb-005130,HH,88.41368131868133,Anc_1469_alt5,Anc_1469_alt5,Anc_1469_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_802_alt4_001.rechained.pdb,nsdb-005131,HH,90.76563636363636,Anc_802_alt4,Anc_802_alt4,Anc_802_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1517_alt3_001.rechained.pdb,nsdb-005132,HH,88.7996875,Anc_1517_alt3,Anc_1517_alt3,Anc_1517_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1459_alt3_001.rechained.pdb,nsdb-005133,HH,87.87393772893772,Anc_1459_alt3,Anc_1459_alt3,Anc_1459_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1487_alt5_001.rechained.pdb,nsdb-005134,HH,87.89163003663003,Anc_1487_alt5,Anc_1487_alt5,Anc_1487_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1493_alt2_001.rechained.pdb,nsdb-005135,HH,88.38553308823529,Anc_1493_alt2,Anc_1493_alt2,Anc_1493_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1490_alt2_001.rechained.pdb,nsdb-005136,HH,87.93729779411764,Anc_1490_alt2,Anc_1490_alt2,Anc_1490_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1469_alt2_001.rechained.pdb,nsdb-005137,HH,88.18131868131869,Anc_1469_alt2,Anc_1469_alt2,Anc_1469_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1499_alt3_001.rechained.pdb,nsdb-005138,HH,88.25087591240876,Anc_1499_alt3,Anc_1499_alt3,Anc_1499_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1476_alt5_001.rechained.pdb,nsdb-005139,HH,87.75329044117646,Anc_1476_alt5,Anc_1476_alt5,Anc_1476_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1467_alt4_001.rechained.pdb,nsdb-005140,HH,88.54863970588235,Anc_1467_alt4,Anc_1467_alt4,Anc_1467_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_815_alt3_001.rechained.pdb,nsdb-005141,HH,89.36383211678832,Anc_815_alt3,Anc_815_alt3,Anc_815_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1516_alt3_001.rechained.pdb,nsdb-005142,HH,87.95989010989011,Anc_1516_alt3,Anc_1516_alt3,Anc_1516_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1499_alt2_001.rechained.pdb,nsdb-005143,HH,87.80760948905109,Anc_1499_alt2,Anc_1499_alt2,Anc_1499_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_774_alt5_001.rechained.pdb,nsdb-005144,HH,89.28038181818182,Anc_774_alt5,Anc_774_alt5,Anc_774_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_790_alt3_001.rechained.pdb,nsdb-005145,HH,89.95441818181817,Anc_790_alt3,Anc_790_alt3,Anc_790_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1472_alt4_001.rechained.pdb,nsdb-005146,HH,87.75549450549451,Anc_1472_alt4,Anc_1472_alt4,Anc_1472_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1494_alt4_001.rechained.pdb,nsdb-005147,HH,87.7210989010989,Anc_1494_alt4,Anc_1494_alt4,Anc_1494_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1531_alt4_001.rechained.pdb,nsdb-005148,HH,91.341336996337,Anc_1531_alt4,Anc_1531_alt4,Anc_1531_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1480_alt5_001.rechained.pdb,nsdb-005149,HH,87.2838786764706,Anc_1480_alt5,Anc_1480_alt5,Anc_1480_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_783_alt4_001.rechained.pdb,nsdb-005150,HH,89.46839999999999,Anc_783_alt4,Anc_783_alt4,Anc_783_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_805_alt5_001.rechained.pdb,nsdb-005151,HH,88.94909090909091,Anc_805_alt5,Anc_805_alt5,Anc_805_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1502_alt3_001.rechained.pdb,nsdb-005152,HH,87.435,Anc_1502_alt3,Anc_1502_alt3,Anc_1502_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1501_alt5_001.rechained.pdb,nsdb-005153,HH,87.85291208791209,Anc_1501_alt5,Anc_1501_alt5,Anc_1501_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_795_alt5_001.rechained.pdb,nsdb-005154,HH,87.88755136986302,Anc_795_alt5,Anc_795_alt5,Anc_795_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1470_alt4_001.rechained.pdb,nsdb-005155,HH,88.12344322344323,Anc_1470_alt4,Anc_1470_alt4,Anc_1470_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1491_alt2_001.rechained.pdb,nsdb-005156,HH,88.10525735294118,Anc_1491_alt2,Anc_1491_alt2,Anc_1491_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1466_alt2_001.rechained.pdb,nsdb-005157,HH,88.32835164835164,Anc_1466_alt2,Anc_1466_alt2,Anc_1466_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1496_alt4_001.rechained.pdb,nsdb-005158,HH,88.16521978021977,Anc_1496_alt4,Anc_1496_alt4,Anc_1496_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1526_alt2_001.rechained.pdb,nsdb-005159,HH,90.66725274725275,Anc_1526_alt2,Anc_1526_alt2,Anc_1526_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1477_alt3_001.rechained.pdb,nsdb-005160,HH,87.33001838235293,Anc_1477_alt3,Anc_1477_alt3,Anc_1477_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_783_alt3_001.rechained.pdb,nsdb-005161,HH,89.50681818181818,Anc_783_alt3,Anc_783_alt3,Anc_783_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1462_alt4_001.rechained.pdb,nsdb-005162,HH,87.49950549450548,Anc_1462_alt4,Anc_1462_alt4,Anc_1462_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_802_alt5_001.rechained.pdb,nsdb-005163,HH,90.82305454545454,Anc_802_alt5,Anc_802_alt5,Anc_802_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1502_alt2_001.rechained.pdb,nsdb-005164,HH,87.435,Anc_1502_alt2,Anc_1502_alt2,Anc_1502_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_771_alt2_001.rechained.pdb,nsdb-005165,HH,90.20239051094892,Anc_771_alt2,Anc_771_alt2,Anc_771_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1522_alt3_001.rechained.pdb,nsdb-005166,HH,87.95858974358974,Anc_1522_alt3,Anc_1522_alt3,Anc_1522_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_790_alt4_001.rechained.pdb,nsdb-005167,HH,89.95792727272728,Anc_790_alt4,Anc_790_alt4,Anc_790_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1491_alt3_001.rechained.pdb,nsdb-005168,HH,88.49933823529412,Anc_1491_alt3,Anc_1491_alt3,Anc_1491_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_805_alt2_001.rechained.pdb,nsdb-005169,HH,89.59892727272728,Anc_805_alt2,Anc_805_alt2,Anc_805_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1520_alt3_001.rechained.pdb,nsdb-005170,HH,87.8028,Anc_1520_alt3,Anc_1520_alt3,Anc_1520_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1521_alt4_001.rechained.pdb,nsdb-005171,HH,87.54811355311355,Anc_1521_alt4,Anc_1521_alt4,Anc_1521_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_808_alt2_001.rechained.pdb,nsdb-005172,HH,90.0125090909091,Anc_808_alt2,Anc_808_alt2,Anc_808_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_771_alt4_001.rechained.pdb,nsdb-005173,HH,90.21375912408759,Anc_771_alt4,Anc_771_alt4,Anc_771_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_817_alt2_001.rechained.pdb,nsdb-005174,HH,88.45167272727272,Anc_817_alt2,Anc_817_alt2,Anc_817_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1476_alt4_001.rechained.pdb,nsdb-005175,HH,87.76726102941177,Anc_1476_alt4,Anc_1476_alt4,Anc_1476_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1522_alt4_001.rechained.pdb,nsdb-005176,HH,87.93100732600733,Anc_1522_alt4,Anc_1522_alt4,Anc_1522_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1510_alt2_001.rechained.pdb,nsdb-005177,HH,86.90124542124542,Anc_1510_alt2,Anc_1510_alt2,Anc_1510_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1515_alt3_001.rechained.pdb,nsdb-005178,HH,88.52555147058823,Anc_1515_alt3,Anc_1515_alt3,Anc_1515_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1482_alt3_001.rechained.pdb,nsdb-005179,HH,87.98075091575093,Anc_1482_alt3,Anc_1482_alt3,Anc_1482_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_818_alt3_001.rechained.pdb,nsdb-005180,HH,87.71116363636364,Anc_818_alt3,Anc_818_alt3,Anc_818_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1536_alt4_001.rechained.pdb,nsdb-005181,HH,90.41230769230769,Anc_1536_alt4,Anc_1536_alt4,Anc_1536_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_782_alt4_001.rechained.pdb,nsdb-005182,HH,89.62652727272727,Anc_782_alt4,Anc_782_alt4,Anc_782_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1492_alt3_001.rechained.pdb,nsdb-005183,HH,88.249375,Anc_1492_alt3,Anc_1492_alt3,Anc_1492_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_802_alt3_001.rechained.pdb,nsdb-005184,HH,90.62201818181818,Anc_802_alt3,Anc_802_alt3,Anc_802_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_821_alt2_001.rechained.pdb,nsdb-005185,HH,88.66503663003662,Anc_821_alt2,Anc_821_alt2,Anc_821_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1484_alt3_001.rechained.pdb,nsdb-005186,HH,87.85650183150182,Anc_1484_alt3,Anc_1484_alt3,Anc_1484_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_798_alt2_001.rechained.pdb,nsdb-005187,HH,89.1144501718213,Anc_798_alt2,Anc_798_alt2,Anc_798_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_801_alt4_001.rechained.pdb,nsdb-005188,HH,89.17216494845361,Anc_801_alt4,Anc_801_alt4,Anc_801_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1456_alt2_001.rechained.pdb,nsdb-005189,HH,87.89998168498168,Anc_1456_alt2,Anc_1456_alt2,Anc_1456_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1479_alt2_001.rechained.pdb,nsdb-005190,HH,87.88198529411765,Anc_1479_alt2,Anc_1479_alt2,Anc_1479_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1536_alt5_001.rechained.pdb,nsdb-005191,HH,91.13283882783882,Anc_1536_alt5,Anc_1536_alt5,Anc_1536_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1465_alt2_001.rechained.pdb,nsdb-005192,HH,87.37109890109889,Anc_1465_alt2,Anc_1465_alt2,Anc_1465_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1503_alt2_001.rechained.pdb,nsdb-005193,HH,87.87881386861315,Anc_1503_alt2,Anc_1503_alt2,Anc_1503_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_813_alt2_001.rechained.pdb,nsdb-005194,HH,89.31527272727273,Anc_813_alt2,Anc_813_alt2,Anc_813_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_817_alt5_001.rechained.pdb,nsdb-005195,HH,89.35063636363635,Anc_817_alt5,Anc_817_alt5,Anc_817_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_791_alt2_001.rechained.pdb,nsdb-005196,HH,90.31392727272727,Anc_791_alt2,Anc_791_alt2,Anc_791_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1495_alt3_001.rechained.pdb,nsdb-005197,HH,87.85749084249083,Anc_1495_alt3,Anc_1495_alt3,Anc_1495_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_811_alt3_001.rechained.pdb,nsdb-005198,HH,90.29892226148411,Anc_811_alt3,Anc_811_alt3,Anc_811_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1463_alt4_001.rechained.pdb,nsdb-005199,HH,87.86617216117216,Anc_1463_alt4,Anc_1463_alt4,Anc_1463_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_821_alt4_001.rechained.pdb,nsdb-005200,HH,89.04241758241758,Anc_821_alt4,Anc_821_alt4,Anc_821_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1490_alt5_001.rechained.pdb,nsdb-005201,HH,87.7646875,Anc_1490_alt5,Anc_1490_alt5,Anc_1490_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1515_alt5_001.rechained.pdb,nsdb-005202,HH,88.39573529411764,Anc_1515_alt5,Anc_1515_alt5,Anc_1515_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_810_alt2_001.rechained.pdb,nsdb-005203,HH,91.12463636363637,Anc_810_alt2,Anc_810_alt2,Anc_810_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_818_alt2_001.rechained.pdb,nsdb-005204,HH,87.71116363636364,Anc_818_alt2,Anc_818_alt2,Anc_818_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1532_alt5_001.rechained.pdb,nsdb-005205,HH,92.07016483516483,Anc_1532_alt5,Anc_1532_alt5,Anc_1532_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1481_alt2_001.rechained.pdb,nsdb-005206,HH,87.7575919117647,Anc_1481_alt2,Anc_1481_alt2,Anc_1481_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_774_alt3_001.rechained.pdb,nsdb-005207,HH,89.40836363636363,Anc_774_alt3,Anc_774_alt3,Anc_774_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1474_alt5_001.rechained.pdb,nsdb-005208,HH,87.65216117216117,Anc_1474_alt5,Anc_1474_alt5,Anc_1474_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1473_alt4_001.rechained.pdb,nsdb-005209,HH,88.06554945054944,Anc_1473_alt4,Anc_1473_alt4,Anc_1473_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1463_alt2_001.rechained.pdb,nsdb-005210,HH,87.8443956043956,Anc_1463_alt2,Anc_1463_alt2,Anc_1463_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1501_alt2_001.rechained.pdb,nsdb-005211,HH,87.60972527472528,Anc_1501_alt2,Anc_1501_alt2,Anc_1501_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1460_alt4_001.rechained.pdb,nsdb-005212,HH,87.85324175824175,Anc_1460_alt4,Anc_1460_alt4,Anc_1460_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1463_alt3_001.rechained.pdb,nsdb-005213,HH,88.04628205128205,Anc_1463_alt3,Anc_1463_alt3,Anc_1463_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1468_alt5_001.rechained.pdb,nsdb-005214,HH,87.84431985294117,Anc_1468_alt5,Anc_1468_alt5,Anc_1468_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1527_alt3_001.rechained.pdb,nsdb-005215,HH,89.28830291970803,Anc_1527_alt3,Anc_1527_alt3,Anc_1527_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_780_alt4_001.rechained.pdb,nsdb-005216,HH,90.13229090909093,Anc_780_alt4,Anc_780_alt4,Anc_780_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1504_alt2_001.rechained.pdb,nsdb-005217,HH,88.23652014652015,Anc_1504_alt2,Anc_1504_alt2,Anc_1504_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1461_alt5_001.rechained.pdb,nsdb-005218,HH,87.51201465201464,Anc_1461_alt5,Anc_1461_alt5,Anc_1461_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1496_alt3_001.rechained.pdb,nsdb-005219,HH,88.02631868131867,Anc_1496_alt3,Anc_1496_alt3,Anc_1496_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_818_alt4_001.rechained.pdb,nsdb-005220,HH,87.71116363636364,Anc_818_alt4,Anc_818_alt4,Anc_818_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_816_alt5_001.rechained.pdb,nsdb-005221,HH,86.22032727272727,Anc_816_alt5,Anc_816_alt5,Anc_816_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1467_alt5_001.rechained.pdb,nsdb-005222,HH,88.92193014705882,Anc_1467_alt5,Anc_1467_alt5,Anc_1467_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1467_alt2_001.rechained.pdb,nsdb-005223,HH,88.9932169117647,Anc_1467_alt2,Anc_1467_alt2,Anc_1467_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_802_alt2_001.rechained.pdb,nsdb-005224,HH,90.87310909090908,Anc_802_alt2,Anc_802_alt2,Anc_802_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1520_alt4_001.rechained.pdb,nsdb-005225,HH,87.49758181818181,Anc_1520_alt4,Anc_1520_alt4,Anc_1520_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1501_alt4_001.rechained.pdb,nsdb-005226,HH,87.76051282051283,Anc_1501_alt4,Anc_1501_alt4,Anc_1501_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_807_alt3_001.rechained.pdb,nsdb-005227,HH,89.5708,Anc_807_alt3,Anc_807_alt3,Anc_807_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1489_alt3_001.rechained.pdb,nsdb-005228,HH,87.67893772893773,Anc_1489_alt3,Anc_1489_alt3,Anc_1489_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_819_alt3_001.rechained.pdb,nsdb-005229,HH,87.65821818181819,Anc_819_alt3,Anc_819_alt3,Anc_819_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1494_alt3_001.rechained.pdb,nsdb-005230,HH,87.56058608058608,Anc_1494_alt3,Anc_1494_alt3,Anc_1494_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1502_alt4_001.rechained.pdb,nsdb-005231,HH,87.46649635036496,Anc_1502_alt4,Anc_1502_alt4,Anc_1502_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1511_alt4_001.rechained.pdb,nsdb-005232,HH,88.76877289377289,Anc_1511_alt4,Anc_1511_alt4,Anc_1511_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_777_alt4_001.rechained.pdb,nsdb-005233,HH,89.4522909090909,Anc_777_alt4,Anc_777_alt4,Anc_777_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1517_alt5_001.rechained.pdb,nsdb-005234,HH,89.12737132352942,Anc_1517_alt5,Anc_1517_alt5,Anc_1517_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1466_alt3_001.rechained.pdb,nsdb-005235,HH,87.91641025641026,Anc_1466_alt3,Anc_1466_alt3,Anc_1466_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_798_alt4_001.rechained.pdb,nsdb-005236,HH,88.81192439862544,Anc_798_alt4,Anc_798_alt4,Anc_798_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_819_alt4_001.rechained.pdb,nsdb-005237,HH,87.07758181818181,Anc_819_alt4,Anc_819_alt4,Anc_819_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_806_alt2_001.rechained.pdb,nsdb-005238,HH,89.69518181818182,Anc_806_alt2,Anc_806_alt2,Anc_806_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1470_alt3_001.rechained.pdb,nsdb-005239,HH,88.17787545787544,Anc_1470_alt3,Anc_1470_alt3,Anc_1470_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1523_alt5_001.rechained.pdb,nsdb-005240,HH,89.08957720588235,Anc_1523_alt5,Anc_1523_alt5,Anc_1523_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_784_alt4_001.rechained.pdb,nsdb-005241,HH,90.34814545454545,Anc_784_alt4,Anc_784_alt4,Anc_784_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_789_alt4_001.rechained.pdb,nsdb-005242,HH,90.01736363636364,Anc_789_alt4,Anc_789_alt4,Anc_789_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1528_alt5_001.rechained.pdb,nsdb-005243,HH,88.69611313868613,Anc_1528_alt5,Anc_1528_alt5,Anc_1528_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1461_alt2_001.rechained.pdb,nsdb-005244,HH,87.28545787545788,Anc_1461_alt2,Anc_1461_alt2,Anc_1461_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1460_alt2_001.rechained.pdb,nsdb-005245,HH,87.94661172161173,Anc_1460_alt2,Anc_1460_alt2,Anc_1460_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1460_alt3_001.rechained.pdb,nsdb-005246,HH,87.78503663003664,Anc_1460_alt3,Anc_1460_alt3,Anc_1460_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1489_alt2_001.rechained.pdb,nsdb-005247,HH,87.49479853479855,Anc_1489_alt2,Anc_1489_alt2,Anc_1489_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1510_alt3_001.rechained.pdb,nsdb-005248,HH,87.18364468864469,Anc_1510_alt3,Anc_1510_alt3,Anc_1510_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_803_alt4_001.rechained.pdb,nsdb-005249,HH,90.77187272727272,Anc_803_alt4,Anc_803_alt4,Anc_803_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1509_alt5_001.rechained.pdb,nsdb-005250,HH,88.14514545454546,Anc_1509_alt5,Anc_1509_alt5,Anc_1509_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1496_alt5_001.rechained.pdb,nsdb-005251,HH,88.16521978021977,Anc_1496_alt5,Anc_1496_alt5,Anc_1496_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1510_alt5_001.rechained.pdb,nsdb-005252,HH,87.490347985348,Anc_1510_alt5,Anc_1510_alt5,Anc_1510_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1507_alt2_001.rechained.pdb,nsdb-005253,HH,88.2968315018315,Anc_1507_alt2,Anc_1507_alt2,Anc_1507_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_805_alt3_001.rechained.pdb,nsdb-005254,HH,88.78030909090909,Anc_805_alt3,Anc_805_alt3,Anc_805_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_772_alt5_001.rechained.pdb,nsdb-005255,HH,89.78692727272727,Anc_772_alt5,Anc_772_alt5,Anc_772_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1498_alt2_001.rechained.pdb,nsdb-005256,HH,88.2661496350365,Anc_1498_alt2,Anc_1498_alt2,Anc_1498_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_819_alt5_001.rechained.pdb,nsdb-005257,HH,86.80707272727273,Anc_819_alt5,Anc_819_alt5,Anc_819_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_790_alt2_001.rechained.pdb,nsdb-005258,HH,89.68427272727273,Anc_790_alt2,Anc_790_alt2,Anc_790_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1497_alt2_001.rechained.pdb,nsdb-005259,HH,87.37560218978102,Anc_1497_alt2,Anc_1497_alt2,Anc_1497_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1536_alt3_001.rechained.pdb,nsdb-005260,HH,90.64307692307693,Anc_1536_alt3,Anc_1536_alt3,Anc_1536_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_784_alt2_001.rechained.pdb,nsdb-005261,HH,90.17009090909092,Anc_784_alt2,Anc_784_alt2,Anc_784_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_810_alt5_001.rechained.pdb,nsdb-005262,HH,90.50961818181817,Anc_810_alt5,Anc_810_alt5,Anc_810_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_809_alt2_001.rechained.pdb,nsdb-005263,HH,89.6739598540146,Anc_809_alt2,Anc_809_alt2,Anc_809_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1505_alt5_001.rechained.pdb,nsdb-005264,HH,87.38386446886446,Anc_1505_alt5,Anc_1505_alt5,Anc_1505_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_815_alt2_001.rechained.pdb,nsdb-005265,HH,89.8472810218978,Anc_815_alt2,Anc_815_alt2,Anc_815_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_772_alt3_001.rechained.pdb,nsdb-005266,HH,90.23736363636364,Anc_772_alt3,Anc_772_alt3,Anc_772_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1521_alt5_001.rechained.pdb,nsdb-005267,HH,87.53657509157509,Anc_1521_alt5,Anc_1521_alt5,Anc_1521_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_780_alt2_001.rechained.pdb,nsdb-005268,HH,89.97978181818182,Anc_780_alt2,Anc_780_alt2,Anc_780_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1478_alt3_001.rechained.pdb,nsdb-005269,HH,87.3411580882353,Anc_1478_alt3,Anc_1478_alt3,Anc_1478_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1472_alt5_001.rechained.pdb,nsdb-005270,HH,87.75549450549451,Anc_1472_alt5,Anc_1472_alt5,Anc_1472_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1507_alt3_001.rechained.pdb,nsdb-005271,HH,88.36437728937729,Anc_1507_alt3,Anc_1507_alt3,Anc_1507_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_788_alt5_001.rechained.pdb,nsdb-005272,HH,90.01456363636365,Anc_788_alt5,Anc_788_alt5,Anc_788_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1504_alt4_001.rechained.pdb,nsdb-005273,HH,88.29278388278388,Anc_1504_alt4,Anc_1504_alt4,Anc_1504_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_777_alt3_001.rechained.pdb,nsdb-005274,HH,89.40789090909091,Anc_777_alt3,Anc_777_alt3,Anc_777_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_776_alt4_001.rechained.pdb,nsdb-005275,HH,89.4774,Anc_776_alt4,Anc_776_alt4,Anc_776_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_820_alt2_001.rechained.pdb,nsdb-005276,HH,88.65543795620437,Anc_820_alt2,Anc_820_alt2,Anc_820_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_800_alt3_001.rechained.pdb,nsdb-005277,HH,89.84682130584193,Anc_800_alt3,Anc_800_alt3,Anc_800_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_787_alt5_001.rechained.pdb,nsdb-005278,HH,90.72690909090909,Anc_787_alt5,Anc_787_alt5,Anc_787_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_771_alt3_001.rechained.pdb,nsdb-005279,HH,91.0912408759124,Anc_771_alt3,Anc_771_alt3,Anc_771_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_801_alt3_001.rechained.pdb,nsdb-005280,HH,89.36974226804124,Anc_801_alt3,Anc_801_alt3,Anc_801_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1488_alt5_001.rechained.pdb,nsdb-005281,HH,88.05597069597069,Anc_1488_alt5,Anc_1488_alt5,Anc_1488_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1530_alt3_001.rechained.pdb,nsdb-005282,HH,91.1986446886447,Anc_1530_alt3,Anc_1530_alt3,Anc_1530_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1504_alt5_001.rechained.pdb,nsdb-005283,HH,88.29278388278388,Anc_1504_alt5,Anc_1504_alt5,Anc_1504_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1521_alt3_001.rechained.pdb,nsdb-005284,HH,87.48851648351649,Anc_1521_alt3,Anc_1521_alt3,Anc_1521_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_817_alt4_001.rechained.pdb,nsdb-005285,HH,88.5126,Anc_817_alt4,Anc_817_alt4,Anc_817_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_786_alt4_001.rechained.pdb,nsdb-005286,HH,92.0944,Anc_786_alt4,Anc_786_alt4,Anc_786_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1514_alt5_001.rechained.pdb,nsdb-005287,HH,88.41847426470588,Anc_1514_alt5,Anc_1514_alt5,Anc_1514_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_801_alt5_001.rechained.pdb,nsdb-005288,HH,89.33845360824742,Anc_801_alt5,Anc_801_alt5,Anc_801_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_796_alt2_001.rechained.pdb,nsdb-005289,HH,88.01140410958905,Anc_796_alt2,Anc_796_alt2,Anc_796_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1511_alt2_001.rechained.pdb,nsdb-005290,HH,88.17631868131869,Anc_1511_alt2,Anc_1511_alt2,Anc_1511_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1503_alt4_001.rechained.pdb,nsdb-005291,HH,87.6294708029197,Anc_1503_alt4,Anc_1503_alt4,Anc_1503_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1478_alt4_001.rechained.pdb,nsdb-005292,HH,87.7386213235294,Anc_1478_alt4,Anc_1478_alt4,Anc_1478_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1537_alt4_001.rechained.pdb,nsdb-005293,HH,89.75446886446886,Anc_1537_alt4,Anc_1537_alt4,Anc_1537_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1495_alt5_001.rechained.pdb,nsdb-005294,HH,87.8412087912088,Anc_1495_alt5,Anc_1495_alt5,Anc_1495_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1497_alt3_001.rechained.pdb,nsdb-005295,HH,87.17286496350366,Anc_1497_alt3,Anc_1497_alt3,Anc_1497_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1488_alt3_001.rechained.pdb,nsdb-005296,HH,88.04470695970697,Anc_1488_alt3,Anc_1488_alt3,Anc_1488_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1516_alt2_001.rechained.pdb,nsdb-005297,HH,87.89626373626373,Anc_1516_alt2,Anc_1516_alt2,Anc_1516_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1508_alt4_001.rechained.pdb,nsdb-005298,HH,87.25481818181818,Anc_1508_alt4,Anc_1508_alt4,Anc_1508_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1536_alt2_001.rechained.pdb,nsdb-005299,HH,90.94300366300367,Anc_1536_alt2,Anc_1536_alt2,Anc_1536_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_777_alt2_001.rechained.pdb,nsdb-005300,HH,89.70449090909091,Anc_777_alt2,Anc_777_alt2,Anc_777_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_791_alt3_001.rechained.pdb,nsdb-005301,HH,90.31392727272727,Anc_791_alt3,Anc_791_alt3,Anc_791_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1509_alt4_001.rechained.pdb,nsdb-005302,HH,87.70794545454545,Anc_1509_alt4,Anc_1509_alt4,Anc_1509_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1495_alt4_001.rechained.pdb,nsdb-005303,HH,87.92177655677655,Anc_1495_alt4,Anc_1495_alt4,Anc_1495_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_775_alt5_001.rechained.pdb,nsdb-005304,HH,89.28921818181819,Anc_775_alt5,Anc_775_alt5,Anc_775_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1509_alt3_001.rechained.pdb,nsdb-005305,HH,88.14514545454546,Anc_1509_alt3,Anc_1509_alt3,Anc_1509_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1505_alt2_001.rechained.pdb,nsdb-005306,HH,87.35040293040294,Anc_1505_alt2,Anc_1505_alt2,Anc_1505_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_781_alt3_001.rechained.pdb,nsdb-005307,HH,89.59912727272727,Anc_781_alt3,Anc_781_alt3,Anc_781_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1517_alt2_001.rechained.pdb,nsdb-005308,HH,89.06055147058824,Anc_1517_alt2,Anc_1517_alt2,Anc_1517_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1527_alt2_001.rechained.pdb,nsdb-005309,HH,89.70604014598541,Anc_1527_alt2,Anc_1527_alt2,Anc_1527_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1465_alt3_001.rechained.pdb,nsdb-005310,HH,87.29809523809524,Anc_1465_alt3,Anc_1465_alt3,Anc_1465_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1518_alt2_001.rechained.pdb,nsdb-005311,HH,88.08254578754578,Anc_1518_alt2,Anc_1518_alt2,Anc_1518_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1479_alt5_001.rechained.pdb,nsdb-005312,HH,87.63137867647059,Anc_1479_alt5,Anc_1479_alt5,Anc_1479_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1512_alt5_001.rechained.pdb,nsdb-005313,HH,87.70076923076923,Anc_1512_alt5,Anc_1512_alt5,Anc_1512_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1535_alt5_001.rechained.pdb,nsdb-005314,HH,89.85203296703297,Anc_1535_alt5,Anc_1535_alt5,Anc_1535_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1525_alt5_001.rechained.pdb,nsdb-005315,HH,90.73556569343066,Anc_1525_alt5,Anc_1525_alt5,Anc_1525_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_773_alt5_001.rechained.pdb,nsdb-005316,HH,89.72103636363636,Anc_773_alt5,Anc_773_alt5,Anc_773_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1497_alt5_001.rechained.pdb,nsdb-005317,HH,87.24226277372263,Anc_1497_alt5,Anc_1497_alt5,Anc_1497_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1456_alt3_001.rechained.pdb,nsdb-005318,HH,88.33732600732601,Anc_1456_alt3,Anc_1456_alt3,Anc_1456_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1509_alt2_001.rechained.pdb,nsdb-005319,HH,88.14514545454546,Anc_1509_alt2,Anc_1509_alt2,Anc_1509_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_804_alt2_001.rechained.pdb,nsdb-005320,HH,88.66,Anc_804_alt2,Anc_804_alt2,Anc_804_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1470_alt5_001.rechained.pdb,nsdb-005321,HH,88.10137362637364,Anc_1470_alt5,Anc_1470_alt5,Anc_1470_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1499_alt5_001.rechained.pdb,nsdb-005322,HH,87.80760948905109,Anc_1499_alt5,Anc_1499_alt5,Anc_1499_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_791_alt4_001.rechained.pdb,nsdb-005323,HH,90.31392727272727,Anc_791_alt4,Anc_791_alt4,Anc_791_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_816_alt2_001.rechained.pdb,nsdb-005324,HH,87.21636363636364,Anc_816_alt2,Anc_816_alt2,Anc_816_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1475_alt5_001.rechained.pdb,nsdb-005325,HH,87.44197802197802,Anc_1475_alt5,Anc_1475_alt5,Anc_1475_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1466_alt5_001.rechained.pdb,nsdb-005326,HH,88.0703663003663,Anc_1466_alt5,Anc_1466_alt5,Anc_1466_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1456_alt5_001.rechained.pdb,nsdb-005327,HH,87.84274725274724,Anc_1456_alt5,Anc_1456_alt5,Anc_1456_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1532_alt3_001.rechained.pdb,nsdb-005328,HH,91.27880952380951,Anc_1532_alt3,Anc_1532_alt3,Anc_1532_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_772_alt4_001.rechained.pdb,nsdb-005329,HH,89.78692727272727,Anc_772_alt4,Anc_772_alt4,Anc_772_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_771_alt5_001.rechained.pdb,nsdb-005330,HH,90.21375912408759,Anc_771_alt5,Anc_771_alt5,Anc_771_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1465_alt4_001.rechained.pdb,nsdb-005331,HH,87.29529304029305,Anc_1465_alt4,Anc_1465_alt4,Anc_1465_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1458_alt5_001.rechained.pdb,nsdb-005332,HH,88.87875457875458,Anc_1458_alt5,Anc_1458_alt5,Anc_1458_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_792_alt5_001.rechained.pdb,nsdb-005333,HH,90.67910909090908,Anc_792_alt5,Anc_792_alt5,Anc_792_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1498_alt3_001.rechained.pdb,nsdb-005334,HH,88.405,Anc_1498_alt3,Anc_1498_alt3,Anc_1498_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1534_alt3_001.rechained.pdb,nsdb-005335,HH,91.03051282051283,Anc_1534_alt3,Anc_1534_alt3,Anc_1534_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_793_alt4_001.rechained.pdb,nsdb-005336,HH,90.83507272727273,Anc_793_alt4,Anc_793_alt4,Anc_793_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1481_alt3_001.rechained.pdb,nsdb-005337,HH,87.82963235294118,Anc_1481_alt3,Anc_1481_alt3,Anc_1481_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1482_alt5_001.rechained.pdb,nsdb-005338,HH,87.82119047619048,Anc_1482_alt5,Anc_1482_alt5,Anc_1482_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_789_alt3_001.rechained.pdb,nsdb-005339,HH,89.34103636363636,Anc_789_alt3,Anc_789_alt3,Anc_789_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_779_alt5_001.rechained.pdb,nsdb-005340,HH,90.1228909090909,Anc_779_alt5,Anc_779_alt5,Anc_779_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_805_alt4_001.rechained.pdb,nsdb-005341,HH,88.7970909090909,Anc_805_alt4,Anc_805_alt4,Anc_805_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_807_alt4_001.rechained.pdb,nsdb-005342,HH,89.59365454545454,Anc_807_alt4,Anc_807_alt4,Anc_807_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1531_alt5_001.rechained.pdb,nsdb-005343,HH,91.62265567765569,Anc_1531_alt5,Anc_1531_alt5,Anc_1531_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1459_alt4_001.rechained.pdb,nsdb-005344,HH,88.07589743589745,Anc_1459_alt4,Anc_1459_alt4,Anc_1459_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1535_alt4_001.rechained.pdb,nsdb-005345,HH,89.9364652014652,Anc_1535_alt4,Anc_1535_alt4,Anc_1535_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1514_alt2_001.rechained.pdb,nsdb-005346,HH,88.53244485294117,Anc_1514_alt2,Anc_1514_alt2,Anc_1514_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1508_alt5_001.rechained.pdb,nsdb-005347,HH,87.06016363636363,Anc_1508_alt5,Anc_1508_alt5,Anc_1508_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1510_alt4_001.rechained.pdb,nsdb-005348,HH,87.490347985348,Anc_1510_alt4,Anc_1510_alt4,Anc_1510_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1514_alt4_001.rechained.pdb,nsdb-005349,HH,88.52090073529412,Anc_1514_alt4,Anc_1514_alt4,Anc_1514_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_818_alt5_001.rechained.pdb,nsdb-005350,HH,87.71116363636364,Anc_818_alt5,Anc_818_alt5,Anc_818_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1495_alt2_001.rechained.pdb,nsdb-005351,HH,87.96910256410257,Anc_1495_alt2,Anc_1495_alt2,Anc_1495_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1490_alt3_001.rechained.pdb,nsdb-005352,HH,88.20193014705882,Anc_1490_alt3,Anc_1490_alt3,Anc_1490_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_780_alt3_001.rechained.pdb,nsdb-005353,HH,89.92363636363636,Anc_780_alt3,Anc_780_alt3,Anc_780_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_788_alt4_001.rechained.pdb,nsdb-005354,HH,89.9762909090909,Anc_788_alt4,Anc_788_alt4,Anc_788_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1487_alt4_001.rechained.pdb,nsdb-005355,HH,87.50809523809524,Anc_1487_alt4,Anc_1487_alt4,Anc_1487_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_811_alt5_001.rechained.pdb,nsdb-005356,HH,90.42553003533568,Anc_811_alt5,Anc_811_alt5,Anc_811_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_1488_alt4_001.rechained.pdb,nsdb-005357,HH,88.05545787545788,Anc_1488_alt4,Anc_1488_alt4,Anc_1488_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1468_alt4_001.rechained.pdb,nsdb-005358,HH,87.20773897058824,Anc_1468_alt4,Anc_1468_alt4,Anc_1468_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_795_alt2_001.rechained.pdb,nsdb-005359,HH,88.16243150684932,Anc_795_alt2,Anc_795_alt2,Anc_795_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1508_alt3_001.rechained.pdb,nsdb-005360,HH,86.99203636363637,Anc_1508_alt3,Anc_1508_alt3,Anc_1508_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_804_alt5_001.rechained.pdb,nsdb-005361,HH,88.63101818181818,Anc_804_alt5,Anc_804_alt5,Anc_804_alt5,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT5,other
+Anc_781_alt2_001.rechained.pdb,nsdb-005362,HH,89.76430909090908,Anc_781_alt2,Anc_781_alt2,Anc_781_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1483_alt2_001.rechained.pdb,nsdb-005363,HH,86.38990875912408,Anc_1483_alt2,Anc_1483_alt2,Anc_1483_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_779_alt3_001.rechained.pdb,nsdb-005364,HH,90.00779999999999,Anc_779_alt3,Anc_779_alt3,Anc_779_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1538_alt3_001.rechained.pdb,nsdb-005365,HH,90.62783636363636,Anc_1538_alt3,Anc_1538_alt3,Anc_1538_alt3,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT3,other
+Anc_1486_alt4_001.rechained.pdb,nsdb-005366,HH,87.06842490842492,Anc_1486_alt4,Anc_1486_alt4,Anc_1486_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
+Anc_1464_alt2_001.rechained.pdb,nsdb-005367,HH,87.75549450549451,Anc_1464_alt2,Anc_1464_alt2,Anc_1464_alt2,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT2,other
+Anc_1532_alt4_001.rechained.pdb,nsdb-005368,HH,91.32091575091576,Anc_1532_alt4,Anc_1532_alt4,Anc_1532_alt4,True,Anc,silver,"{'A': 'H', 'B': 'H'}",ALT4,other
