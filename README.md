@@ -1,4 +1,4 @@
-# Massive Nitrogenase Prediction
+# Massive Nitrogenase Structure Prediction
 
 ![](nitrospace-pet.png)
 
@@ -85,3 +85,7 @@ libraries, using streamlit.
 We note, however, that the nitrogenase-structural-db.streamlit.com server is not
 an exact match of this server, as we are using an S3 solution for storage (the whole
 dataset is around 3.8GB).
+
+## Files
+
+PDB files are available at [Zenodo](10.5281/zenodo.13351063) (not open yet) or at the server (adress to be confirmed).
