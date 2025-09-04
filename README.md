@@ -88,4 +88,4 @@ dataset is around 3.8GB).
 
 ## Files
 
-PDB files are available at [Zenodo](10.5281/zenodo.13351063) (not open yet) or at the server (adress to be confirmed).
+PDB files are available at [Zenodo](10.5281/zenodo.13351063)
